@@ -1,0 +1,2324 @@
+[
+  {
+    "id": 1,
+    "word": "pragmatics",
+    "pos": "n.",
+    "meaning": "語用論",
+    "example": "Pragmatics examines how context shapes the meaning of utterances beyond their literal content, showing that language use is always embedded in social situations.",
+    "translation": "語用論は、発話の文字通りの内容を超えた意味を文脈がいかに形成するかを検討し、言語使用が常に社会的状況に埋め込まれていることを示す。",
+    "etymology": "pragmatic (adj.) 実用的な；speech act 発話行為；implicature 会話的含意；context (n.) 文脈；utterance (n.) 発話",
+    "derivatives": [
+      "pragmatic",
+      "speech",
+      "implicature",
+      "context"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 1
+  },
+  {
+    "id": 2,
+    "word": "sociolinguistics",
+    "pos": "n.",
+    "meaning": "社会言語学",
+    "example": "Sociolinguistics investigates the relationship between language use and social factors such as class, ethnicity, gender, and regional identity.",
+    "translation": "社会言語学は、言語使用と階級・民族・ジェンダー・地域的アイデンティティなどの社会的要因との関係を研究する。",
+    "etymology": "sociolinguistic (adj.) 社会言語学的な；dialect (n.) 方言；register (n.) 言語使用域；code-switching コード・スイッチング；language variation 言語変異",
+    "derivatives": [
+      "sociolinguistic",
+      "dialect",
+      "register",
+      "code-switching"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 1
+  },
+  {
+    "id": 3,
+    "word": "vernacular",
+    "pos": "n./adj.",
+    "meaning": "土着語；口語的な",
+    "example": "The suppression of vernacular languages under colonial rule was not merely a linguistic policy but a deliberate strategy to dismantle cultural identity.",
+    "translation": "植民地支配下における土着語の抑圧は、単なる言語政策ではなく、文化的アイデンティティを解体する意図的な戦略であった。",
+    "etymology": "vernacularize (v.) 土着語化する；non-standard (adj.) 非標準的な；dialect (n.) 方言；creole (n.) クレオール語；indigenous language 先住民言語",
+    "derivatives": [
+      "vernacularize",
+      "non-standard",
+      "dialect",
+      "creole"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 1
+  },
+  {
+    "id": 4,
+    "word": "neologism",
+    "pos": "n.",
+    "meaning": "新造語；造語",
+    "example": "The rapid proliferation of neologisms in digital communication reflects how technological change accelerates the evolution of language.",
+    "translation": "デジタルコミュニケーションにおける新造語の急速な増殖は、技術的変化がいかに言語の進化を加速させるかを反映している。",
+    "etymology": "neologize (v.) 新語を作る；lexical innovation 語彙的革新；coinage (n.) 造語；nonce word 臨時語；portmanteau word かばん語",
+    "derivatives": [
+      "neologize",
+      "lexical",
+      "coinage",
+      "nonce"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 1
+  },
+  {
+    "id": 5,
+    "word": "lexicon",
+    "pos": "n.",
+    "meaning": "語彙（体系）；心内辞書",
+    "example": "The mental lexicon is not a simple alphabetical list but a richly interconnected network in which words are linked by sound, meaning, and grammatical function.",
+    "translation": "心内辞書は単純なアルファベット順のリストではなく、語が音・意味・文法的機能によって結びついた豊かな相互接続のネットワークである。",
+    "etymology": "lexical (adj.) 語彙的な；mental lexicon 心内辞書；vocabulary (n.) 語彙；lexicography (n.) 辞書編纂；semantic field 意味場",
+    "derivatives": [
+      "lexical",
+      "mental",
+      "vocabulary",
+      "lexicography"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 1
+  },
+  {
+    "id": 6,
+    "word": "creole",
+    "pos": "n./adj.",
+    "meaning": "クレオール語（の）；混成語",
+    "example": "Creole languages, far from being impoverished versions of European tongues, are fully developed linguistic systems shaped by the complex histories of colonialism and diaspora.",
+    "translation": "クレオール語はヨーロッパ語の劣化版どころか、植民地主義とディアスポラの複雑な歴史によって形成された完全に発達した言語体系である。",
+    "etymology": "creolization (n.) クレオール化；pidgin (n.) ピジン語；language contact 言語接触；hybridization (n.) 混成化；substrate language 基層言語",
+    "derivatives": [
+      "creolization",
+      "pidgin",
+      "language",
+      "hybridization"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 1
+  },
+  {
+    "id": 7,
+    "word": "code-switching",
+    "pos": "n.",
+    "meaning": "コード・スイッチング；言語切り替え",
+    "example": "Code-switching among bilingual speakers is a sophisticated communicative strategy that serves social, pragmatic, and expressive functions rather than signalling linguistic deficiency.",
+    "translation": "バイリンガル話者間のコード・スイッチングは、言語的欠陥を示すのではなく、社会的・語用論的・表現的機能を果たす高度なコミュニケーション戦略である。",
+    "etymology": "bilingual (adj.) バイリンガルの；diglossia (n.) ダイグロシア；multilingualism 多言語主義；matrix language 基底言語；triggered switching 誘引切り替え",
+    "derivatives": [
+      "bilingual",
+      "diglossia",
+      "multilingualism",
+      "matrix"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 1
+  },
+  {
+    "id": 8,
+    "word": "metalinguistic",
+    "pos": "adj.",
+    "meaning": "メタ言語的な；言語についての言語",
+    "example": "Metalinguistic awareness — the ability to reflect consciously on language as a system — develops with literacy and is associated with stronger reading comprehension.",
+    "translation": "言語を体系として意識的に反省する能力であるメタ言語意識は、識字能力とともに発達し、より高い読解力と関連している。",
+    "etymology": "metalanguage (n.) メタ言語；metalinguistic awareness メタ言語意識；reflexivity (n.) 再帰性；language awareness 言語意識；critical language awareness 批判的言語意識",
+    "derivatives": [
+      "metalanguage",
+      "metalinguistic",
+      "reflexivity",
+      "language"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 1
+  },
+  {
+    "id": 9,
+    "word": "discourse",
+    "pos": "n.",
+    "meaning": "談話；言説；ディスコース",
+    "example": "Foucauldian discourse analysis reveals how the language used in institutional settings shapes what can be said, thought, and known within a given social domain.",
+    "translation": "フーコー的な談話分析は、制度的な場で用いられる言語が、特定の社会的領域において何が言われ・思考され・知られうるかをいかに形成するかを明らかにする。",
+    "etymology": "discourse analysis 談話分析；discursive (adj.) 言説的な；Foucault フーコー；genre (n.) ジャンル；power-knowledge 権力-知識",
+    "derivatives": [
+      "discourse",
+      "discursive",
+      "Foucault",
+      "genre"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 1
+  },
+  {
+    "id": 10,
+    "word": "morphology",
+    "pos": "n.",
+    "meaning": "形態論；語形論",
+    "example": "Morphology examines the internal structure of words, showing how morphemes — the smallest units of meaning — combine to produce the rich vocabulary of a language.",
+    "translation": "形態論は語の内部構造を検討し、意味の最小単位である形態素がいかに組み合わさって言語の豊かな語彙を生み出すかを示す。",
+    "etymology": "morpheme (n.) 形態素；morphological (adj.) 形態論的な；inflection (n.) 語形変化；derivation (n.) 派生；affix (n.) 接辞",
+    "derivatives": [
+      "morpheme",
+      "morphological",
+      "inflection",
+      "derivation"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 1
+  },
+  {
+    "id": 11,
+    "word": "phonology",
+    "pos": "n.",
+    "meaning": "音韻論",
+    "example": "Phonology studies the sound patterns of languages, exploring how a finite set of phonemes is organised into a system that allows speakers to produce and perceive meaningful distinctions.",
+    "translation": "音韻論は言語の音のパターンを研究し、有限の音素の集合がいかに組織化されて話者が意味のある区別を産出・知覚できるシステムを形成するかを探る。",
+    "etymology": "phoneme (n.) 音素；phonological (adj.) 音韻論的な；prosody (n.) 韻律；suprasegmental (adj.) 超分節的な；phonological awareness 音韻認識",
+    "derivatives": [
+      "phoneme",
+      "phonological",
+      "prosody",
+      "suprasegmental"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 2
+  },
+  {
+    "id": 12,
+    "word": "semiotics",
+    "pos": "n.",
+    "meaning": "記号論；セミオティクス",
+    "example": "Semiotics, as developed by Saussure and Peirce, extends the study of meaning beyond language to all sign systems, including images, gestures, and cultural artefacts.",
+    "translation": "ソシュールとパースが発展させた記号論は、意味の研究を言語を超えて画像・身振り・文化的人工物を含む全ての記号システムへと拡張する。",
+    "etymology": "semiotic (adj.) 記号論的な；sign (n.) 記号；signifier / signified シニフィアン／シニフィエ；Saussure ソシュール；indexicality (n.) 指標性",
+    "derivatives": [
+      "semiotic",
+      "sign",
+      "signifier",
+      "Saussure"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 2
+  },
+  {
+    "id": 13,
+    "word": "syntax",
+    "pos": "n.",
+    "meaning": "統語論；構文論",
+    "example": "Chomsky's generative syntax proposes that all human languages share a universal underlying structure, suggesting that the capacity for language is biologically innate.",
+    "translation": "チョムスキーの生成統語論は、すべての人間言語が普遍的な基底構造を共有すると提唱し、言語能力が生物学的に生得的であることを示唆する。",
+    "etymology": "syntactic (adj.) 統語的な；phrase structure 句構造；constituency 構成素性；generative grammar 生成文法；Chomsky チョムスキー",
+    "derivatives": [
+      "syntactic",
+      "phrase",
+      "constituency",
+      "generative"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 2
+  },
+  {
+    "id": 14,
+    "word": "rhetoric",
+    "pos": "n.",
+    "meaning": "修辞学；レトリック；説得の技法",
+    "example": "Classical rhetoric identified the modes of persuasion — ethos, pathos, and logos — as the fundamental resources a speaker uses to move an audience toward a desired conclusion.",
+    "translation": "古典的修辞学は説得の様式（エートス・パトス・ロゴス）を、話者が聴衆を望む結論に向けて動かすために用いる基本的な手段として同定した。",
+    "etymology": "rhetorical (adj.) 修辞的な；rhetorician (n.) 修辞学者；ethos / pathos / logos エートス／パトス／ロゴス；persuasion (n.) 説得；trope (n.) 修辞的転義",
+    "derivatives": [
+      "rhetorical",
+      "rhetorician",
+      "ethos",
+      "persuasion"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 2
+  },
+  {
+    "id": 15,
+    "word": "linguistic relativity",
+    "pos": "n.",
+    "meaning": "言語相対性；サピア＝ウォーフ仮説",
+    "example": "The strong version of linguistic relativity claims that language determines thought, while the weak version holds that language merely influences how we perceive and categorise experience.",
+    "translation": "言語相対性の強い版は言語が思考を決定すると主張するが、弱い版は言語が経験の知覚と分類に影響を与えるにすぎないと主張する。",
+    "etymology": "Sapir-Whorf hypothesis サピア-ウォーフ仮説；linguistic determinism 言語決定論；Whorfian (adj.) ウォーフ的な；cognitive linguistics 認知言語学；language and thought 言語と思考",
+    "derivatives": [
+      "Sapir-Whorf",
+      "linguistic",
+      "Whorfian",
+      "cognitive"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 2
+  },
+  {
+    "id": 16,
+    "word": "intertextuality",
+    "pos": "n.",
+    "meaning": "間テクスト性；テクスト間の相互参照",
+    "example": "Intertextuality holds that no text is self-contained: every work is inevitably shaped by and in dialogue with prior texts, genres, and cultural conventions.",
+    "translation": "間テクスト性は、いかなるテキストも自己完結していないことを主張する。すべての作品は先行するテキスト・ジャンル・文化的慣習によって形成され、それらとの対話に必然的にある。",
+    "etymology": "intertextual (adj.) 間テクスト的な；Kristeva クリステヴァ；allusion (n.) 典拠への言及；citation (n.) 引用；palimpsest (n.) 上書き文書",
+    "derivatives": [
+      "intertextual",
+      "Kristeva",
+      "allusion",
+      "citation"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 2
+  },
+  {
+    "id": 17,
+    "word": "corpus linguistics",
+    "pos": "n.",
+    "meaning": "コーパス言語学",
+    "example": "Corpus linguistics provides empirical evidence about how language is actually used in context, challenging intuition-based descriptions that dominated earlier linguistic theory.",
+    "translation": "コーパス言語学は言語が実際に文脈でどのように使われるかについての実証的証拠を提供し、以前の言語理論を支配していた直感に基づく記述に異議を唱える。",
+    "etymology": "corpus (n.) コーパス；concordance (n.) 用語索引；collocations (n.) 連語；frequency analysis 頻度分析；COCA COCA（現代アメリカ英語コーパス）",
+    "derivatives": [
+      "corpus",
+      "concordance",
+      "collocations",
+      "frequency"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 2
+  },
+  {
+    "id": 18,
+    "word": "diachronic",
+    "pos": "adj.",
+    "meaning": "通時的な；歴史的変化を扱う",
+    "example": "Saussure distinguished between diachronic linguistics, which studies language change over time, and synchronic linguistics, which analyses language as a system at a single moment.",
+    "translation": "ソシュールは時間をかけた言語変化を研究する通時的言語学と、ある一時点における体系として言語を分析する共時的言語学を区別した。",
+    "etymology": "synchronic (adj.) 共時的な；historical linguistics 歴史言語学；etymology (n.) 語源学；language change 言語変化；proto-language 祖語",
+    "derivatives": [
+      "synchronic",
+      "historical",
+      "etymology",
+      "language"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 2
+  },
+  {
+    "id": 19,
+    "word": "narrative",
+    "pos": "n./adj.",
+    "meaning": "物語；語り；ナラティブ",
+    "example": "Narrative is not merely a literary device but a fundamental cognitive structure through which human beings organise experience, construct identity, and communicate with others.",
+    "translation": "ナラティブは単なる文学的手法ではなく、人間が経験を整理し・アイデンティティを構築し・他者とコミュニケーションをとるための基本的な認知的構造である。",
+    "etymology": "narratology (n.) 物語論；narrator (n.) 語り手；plot (n.) 筋書き；diegesis (n.) ディエゲーシス；focalization (n.) 焦点化",
+    "derivatives": [
+      "narratology",
+      "narrator",
+      "plot",
+      "diegesis"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 2
+  },
+  {
+    "id": 20,
+    "word": "pidgin",
+    "pos": "n.",
+    "meaning": "ピジン語；接触言語",
+    "example": "Pidgin languages emerge when speakers of mutually unintelligible languages need a means of communication, typically in contexts of trade or colonial contact.",
+    "translation": "ピジン語は、相互に理解不能な言語の話者が通信手段を必要とするとき、典型的には貿易や植民地的接触の文脈で生まれる。",
+    "etymology": "creole (n.) クレオール語；pidginization (n.) ピジン化；contact language 接触言語；lingua franca 共通語；simplification (n.) 単純化",
+    "derivatives": [
+      "creole",
+      "pidginization",
+      "contact",
+      "lingua"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 2
+  },
+  {
+    "id": 21,
+    "word": "polysemy",
+    "pos": "n.",
+    "meaning": "多義性；一語多義",
+    "example": "Polysemy — the phenomenon by which a single word carries multiple related meanings — presents a significant challenge for both language learners and natural language processing systems.",
+    "translation": "一語が複数の関連する意味を持つ現象である多義性は、言語学習者と自然言語処理システムの双方にとって重大な課題をもたらす。",
+    "etymology": "polysemous (adj.) 多義的な；homonymy (n.) 同音異義；semantic extension 意味拡張；prototype theory プロトタイプ理論；ambiguity (n.) 曖昧性",
+    "derivatives": [
+      "polysemous",
+      "homonymy",
+      "semantic",
+      "prototype"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 3
+  },
+  {
+    "id": 22,
+    "word": "translation",
+    "pos": "n.",
+    "meaning": "翻訳；通訳；移送",
+    "example": "Translation theorists debate whether domestication — adapting a text to the target culture's norms — or foreignization — preserving the source culture's strangeness — better serves the reader.",
+    "translation": "翻訳理論家は、テキストを目標文化の規範に適応させる自国化と、原文文化の異質さを保存する異化のどちらが読者によりよく奉仕するかを論じている。",
+    "etymology": "translate (v.) 翻訳する；domestication / foreignization 自国化／異化；equivalence (n.) 等価；Venuti ヴェヌーティ；untranslatability 翻訳不可能性",
+    "derivatives": [
+      "translate",
+      "domestication",
+      "equivalence",
+      "Venuti"
+    ],
+    "topic": "Language Lagoon",
+    "topicJp": "言語・コミュニケーション",
+    "day": 3
+  },
+  {
+    "id": 23,
+    "word": "hegemony",
+    "pos": "n.",
+    "meaning": "覇権；文化的ヘゲモニー",
+    "example": "Gramsci's concept of cultural hegemony explains how dominant groups maintain power not through overt coercion but by shaping what populations regard as natural and commonsensical.",
+    "translation": "グラムシの文化的覇権概念は、支配集団がいかに露骨な強制ではなく、人々が自然で常識的とみなすものを形成することで権力を維持するかを説明する。",
+    "etymology": "hegemonic (adj.) 覇権的な；cultural hegemony 文化的覇権；Gramsci グラムシ；counter-hegemony 対抗覇権；dominant ideology 支配的イデオロギー",
+    "derivatives": [
+      "hegemonic",
+      "cultural",
+      "Gramsci",
+      "counter-hegemony"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 4
+  },
+  {
+    "id": 24,
+    "word": "colonialism",
+    "pos": "n.",
+    "meaning": "植民地主義；植民地制度",
+    "example": "The legacies of colonialism persist in contemporary economic inequalities, cultural hierarchies, and the psychological effects documented in postcolonial scholarship.",
+    "translation": "植民地主義の遺産は、現代の経済的不平等・文化的ヒエラルキー・ポストコロニアル研究で記録された心理的影響に持続している。",
+    "etymology": "colonial (adj.) 植民地の；decolonization (n.) 脱植民地化；postcolonial (adj.) ポストコロニアルの；settler colonialism 入植者植民地主義；neo-colonialism 新植民地主義",
+    "derivatives": [
+      "colonial",
+      "decolonization",
+      "postcolonial",
+      "settler"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 4
+  },
+  {
+    "id": 25,
+    "word": "suffrage",
+    "pos": "n.",
+    "meaning": "参政権；選挙権",
+    "example": "The struggle for women's suffrage was not merely a campaign for the right to vote but a broader challenge to legal and social structures that denied women full citizenship.",
+    "translation": "女性参政権をめぐる闘いは単なる投票権獲得の運動ではなく、女性に完全な市民権を否定した法的・社会的構造への広範な挑戦であった。",
+    "etymology": "universal suffrage 普通選挙権；women's suffrage 女性参政権；disenfranchisement (n.) 選挙権剥奪；enfranchisement (n.) 選挙権付与；voting rights 投票権",
+    "derivatives": [
+      "universal",
+      "women's",
+      "disenfranchisement",
+      "enfranchisement"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 4
+  },
+  {
+    "id": 26,
+    "word": "diaspora",
+    "pos": "n.",
+    "meaning": "ディアスポラ；離散民族",
+    "example": "The diasporic experience involves a complex negotiation between preserving inherited cultural practices and adapting to the norms and expectations of the host society.",
+    "translation": "ディアスポラの経験は、受け継いだ文化的慣行の保存と受け入れ社会の規範・期待への適応の間の複雑な交渉を伴う。",
+    "etymology": "diasporic (adj.) ディアスポラの；transnationalism (n.) トランスナショナリズム；remittance (n.) 送金；homeland (n.) 故国；cultural retention 文化的維持",
+    "derivatives": [
+      "diasporic",
+      "transnationalism",
+      "remittance",
+      "homeland"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 4
+  },
+  {
+    "id": 27,
+    "word": "emancipation",
+    "pos": "n.",
+    "meaning": "解放；奴隷解放；解放運動",
+    "example": "The legal emancipation of enslaved people was a necessary but insufficient step toward equality; dismantling the social and economic hierarchies that slavery had created required further sustained struggle.",
+    "translation": "奴隷にされた人々の法的解放は平等に向けた必要条件ではあったが十分条件ではなかった。奴隷制が作り出した社会的・経済的ヒエラルキーを解体するには更なる持続的な闘争が必要であった。",
+    "etymology": "emancipate (v.) 解放する；emancipatory (adj.) 解放的な；manumission (n.) 奴隷解放（法的）；liberation (n.) 解放；political emancipation 政治的解放",
+    "derivatives": [
+      "emancipate",
+      "emancipatory",
+      "manumission",
+      "liberation"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 4
+  },
+  {
+    "id": 28,
+    "word": "populism",
+    "pos": "n.",
+    "meaning": "ポピュリズム；大衆迎合主義",
+    "example": "Contemporary populism constructs a moral opposition between 'the pure people' and 'the corrupt elite', a rhetorical strategy that can appeal across the conventional left–right divide.",
+    "translation": "現代のポピュリズムは「純粋な人民」と「腐敗したエリート」の道徳的対立を構築する修辞的戦略であり、それは従来の左右対立を超えた訴求力を持ちうる。",
+    "etymology": "populist (n./adj.) ポピュリスト；anti-establishment 反体制；nativism (n.) 土着主義；demagoguery (n.) 扇動政治；thin-centred ideology 薄い中心のイデオロギー",
+    "derivatives": [
+      "populist",
+      "anti-establishment",
+      "nativism",
+      "demagoguery"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 4
+  },
+  {
+    "id": 29,
+    "word": "abolitionist",
+    "pos": "n./adj.",
+    "meaning": "奴隷制廃止論者（の）；廃止運動の",
+    "example": "Abolitionist writers employed vivid personal testimony, moral philosophy, and legal argument to challenge the systematic dehumanisation that slavery required.",
+    "translation": "廃止論者の著述家たちは、生き生きとした個人的証言・道徳哲学・法的論証を用いて、奴隷制が必要とした組織的な非人間化に異議を唱えた。",
+    "etymology": "abolitionism (n.) 廃止運動；abolish (v.) 廃止する；antislavery (adj.) 反奴隷制の；manumission (n.) 奴隷解放；Underground Railroad 地下鉄道（逃亡経路）",
+    "derivatives": [
+      "abolitionism",
+      "abolish",
+      "antislavery",
+      "manumission"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 4
+  },
+  {
+    "id": 30,
+    "word": "sovereignty",
+    "pos": "n.",
+    "meaning": "主権；統治権；自治",
+    "example": "In an era of globalisation and transnational governance, the traditional concept of absolute national sovereignty has been progressively qualified by international obligations.",
+    "translation": "グローバル化と超国家的ガバナンスの時代において、絶対的な国家主権という伝統的概念は国際的義務によって段階的に制約されてきた。",
+    "etymology": "sovereign (adj./n.) 主権的な；sovereignty dispute 主権争い；digital sovereignty デジタル主権；popular sovereignty 人民主権；territorial integrity 領土保全",
+    "derivatives": [
+      "sovereign",
+      "sovereignty",
+      "digital",
+      "popular"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 4
+  },
+  {
+    "id": 31,
+    "word": "imperialism",
+    "pos": "n.",
+    "meaning": "帝国主義",
+    "example": "Cultural imperialism describes the process by which the values, practices, and consumer goods of a dominant nation are disseminated and imposed upon subordinate societies.",
+    "translation": "文化的帝国主義は、支配的な国家の価値観・慣行・消費財が従属的な社会へ普及・強制されるプロセスを記述する。",
+    "etymology": "imperialist (n./adj.) 帝国主義者；imperial (adj.) 帝国の；cultural imperialism 文化的帝国主義；anti-imperialism 反帝国主義；empire (n.) 帝国",
+    "derivatives": [
+      "imperialist",
+      "imperial",
+      "cultural",
+      "anti-imperialism"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 4
+  },
+  {
+    "id": 32,
+    "word": "nationalism",
+    "pos": "n.",
+    "meaning": "ナショナリズム；国家主義",
+    "example": "Benedict Anderson's concept of the imagined community argues that nations are socially constructed through shared cultural symbols, printed media, and a collective sense of belonging.",
+    "translation": "ベネディクト・アンダーソンの「想像の共同体」概念は、国家が共有された文化的象徴・印刷メディア・集合的帰属感を通じて社会的に構築されると主張する。",
+    "etymology": "nationalist (n./adj.) 民族主義者；national identity 国民的アイデンティティ；civic nationalism 市民的ナショナリズム；ethnic nationalism 民族的ナショナリズム；Anderson アンダーソン",
+    "derivatives": [
+      "nationalist",
+      "national",
+      "civic",
+      "ethnic"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 4
+  },
+  {
+    "id": 33,
+    "word": "secularism",
+    "pos": "n.",
+    "meaning": "世俗主義；政教分離",
+    "example": "Secularism as a political principle demands that the state remain neutral on religious matters, ensuring that no single faith tradition enjoys legal privilege over others.",
+    "translation": "政治的原則としての世俗主義は、国家が宗教問題について中立を保つことを求め、いかなる信仰の伝統も他に対して法的特権を享受しないことを確保する。",
+    "etymology": "secular (adj.) 世俗的な；secularization (n.) 世俗化；theocracy (n.) 神権政治；laïcité ライシテ（フランスの政教分離）；public sphere 公的領域",
+    "derivatives": [
+      "secular",
+      "secularization",
+      "theocracy",
+      "la"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 5
+  },
+  {
+    "id": 34,
+    "word": "oligarchy",
+    "pos": "n.",
+    "meaning": "寡頭政治；少数支配",
+    "example": "Critics of contemporary democracy argue that many nominally democratic states have drifted toward oligarchy, with policy outcomes systematically reflecting the preferences of economic elites.",
+    "translation": "現代民主主義の批評家は、名目上民主的な多くの国家が寡頭政治に向かって漂流しており、政策的成果が系統的に経済的エリートの好みを反映していると主張する。",
+    "etymology": "oligarchic (adj.) 寡頭的な；plutocracy (n.) 金権政治；aristocracy (n.) 貴族政治；ruling class 支配階級；elite capture エリートの掌握",
+    "derivatives": [
+      "oligarchic",
+      "plutocracy",
+      "aristocracy",
+      "ruling"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 5
+  },
+  {
+    "id": 35,
+    "word": "civil society",
+    "pos": "n.",
+    "meaning": "市民社会",
+    "example": "A vibrant civil society — encompassing voluntary associations, non-governmental organisations, and community networks — is widely regarded as essential to democratic accountability.",
+    "translation": "任意団体・非政府組織・コミュニティネットワークを包含する活発な市民社会は、民主的説明責任に不可欠なものとして広く見なされている。",
+    "etymology": "NGO 非政府組織；civic engagement 市民的関与；public sphere 公的領域；associational life 結社生活；Tocqueville トクヴィル",
+    "derivatives": [
+      "NGO",
+      "civic",
+      "public",
+      "associational"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 5
+  },
+  {
+    "id": 36,
+    "word": "feudalism",
+    "pos": "n.",
+    "meaning": "封建制度；封建主義",
+    "example": "Feudalism organised medieval European society around reciprocal obligations between lords and vassals, with land tenure serving as the foundation of political authority.",
+    "translation": "封建制度は、土地保有を政治的権威の基盤として、主君と家臣の相互義務を中心に中世ヨーロッパ社会を組織した。",
+    "etymology": "feudal (adj.) 封建的な；serfdom (n.) 農奴制；lord-vassal relationship 主従関係；manorial system 荘園制；tributary system 朝貢体制",
+    "derivatives": [
+      "feudal",
+      "serfdom",
+      "lord-vassal",
+      "manorial"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 5
+  },
+  {
+    "id": 37,
+    "word": "propaganda",
+    "pos": "n.",
+    "meaning": "プロパガンダ；政治宣伝",
+    "example": "Propaganda manipulates public opinion not only through outright falsehoods but through the selective framing of accurate information to serve political or ideological ends.",
+    "translation": "プロパガンダは、露骨な虚偽だけでなく、政治的・イデオロギー的目的のために正確な情報を選択的に組み立てることによって世論を操作する。",
+    "etymology": "propagandist (n.) プロパガンダを行う者；disinformation (n.) 虚偽情報；ideological apparatus イデオロギー的装置；censorship (n.) 検閲；manufactured consent 作られた同意",
+    "derivatives": [
+      "propagandist",
+      "disinformation",
+      "ideological",
+      "censorship"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 5
+  },
+  {
+    "id": 38,
+    "word": "totalitarianism",
+    "pos": "n.",
+    "meaning": "全体主義",
+    "example": "Arendt's analysis of totalitarianism identifies its distinctive feature as the attempt to transform human nature itself, rather than merely controlling behaviour through force.",
+    "translation": "アーレントの全体主義分析は、その特徴的な要素を、単に力で行動を制御するのではなく、人間の本性そのものを変えようとする試みとして特定する。",
+    "etymology": "totalitarian (adj.) 全体主義的な；authoritarianism (n.) 権威主義；Arendt アーレント；surveillance state 監視国家；Orwellian オーウェル的な",
+    "derivatives": [
+      "totalitarian",
+      "authoritarianism",
+      "Arendt",
+      "surveillance"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 5
+  },
+  {
+    "id": 39,
+    "word": "welfare state",
+    "pos": "n.",
+    "meaning": "福祉国家",
+    "example": "The postwar welfare state rested on a political consensus that market outcomes alone were insufficient to guarantee citizens the social rights of health, education, and income security.",
+    "translation": "戦後の福祉国家は、市場の成果だけでは市民に健康・教育・所得保障という社会的権利を保証するには不十分であるという政治的合意に基づいていた。",
+    "etymology": "social democracy 社会民主主義；redistribution (n.) 再配分；universalism (n.) 普遍主義；means testing 資力調査；austerity (n.) 緊縮財政",
+    "derivatives": [
+      "social",
+      "redistribution",
+      "universalism",
+      "means"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 5
+  },
+  {
+    "id": 40,
+    "word": "modernity",
+    "pos": "n.",
+    "meaning": "近代性；近代；モダニティ",
+    "example": "Modernity is characterised not only by industrialisation and urbanisation but by a reflexive orientation toward the social world in which inherited traditions must be continuously justified.",
+    "translation": "近代性は工業化と都市化だけでなく、受け継いだ伝統が継続的に正当化されなければならない社会世界への再帰的志向によって特徴づけられる。",
+    "etymology": "modern (adj.) 近代的な；modernization (n.) 近代化；high modernity 高度近代；postmodernity (n.) ポスト近代性；Giddens ギデンズ",
+    "derivatives": [
+      "modern",
+      "modernization",
+      "high",
+      "postmodernity"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 5
+  },
+  {
+    "id": 41,
+    "word": "civil rights",
+    "pos": "n.",
+    "meaning": "市民権；公民権",
+    "example": "The civil rights movement in the United States challenged not only overt segregation but the deeper structures of racial subordination embedded in law, economy, and culture.",
+    "translation": "アメリカの公民権運動は、明示的な人種差別だけでなく、法律・経済・文化に埋め込まれた人種的従属のより深い構造に異議を唱えた。",
+    "etymology": "civil rights movement 公民権運動；desegregation (n.) 人種差別撤廃；Jim Crow ジム・クロウ法；non-violent protest 非暴力抗議；affirmative action 積極的差別是正措置",
+    "derivatives": [
+      "civil",
+      "desegregation",
+      "Jim",
+      "non-violent"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 5
+  },
+  {
+    "id": 42,
+    "word": "nationalism",
+    "pos": "n.",
+    "meaning": "民族自決；ナショナリズム",
+    "example": "The principle of national self-determination, championed after World War I, promised peoples the right to govern themselves, yet its application proved deeply contested and unevenly enforced.",
+    "translation": "第一次世界大戦後に提唱された民族自決の原則は、人々に自治の権利を約束したが、その適用は深く争われ、不均等に実施された。",
+    "etymology": "self-determination 自決；nation-state 国民国家；ethnonationalism 民族ナショナリズム；irredentism (n.) 回復主義；secessionism (n.) 分離主義",
+    "derivatives": [
+      "self-determination",
+      "nation-state",
+      "ethnonationalism",
+      "irredentism"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 5
+  },
+  {
+    "id": 43,
+    "word": "secularization",
+    "pos": "n.",
+    "meaning": "世俗化；脱宗教化",
+    "example": "Weber's thesis of disenchantment describes the process by which modern rationalization strips the world of magical and religious meaning, replacing it with instrumental calculation.",
+    "translation": "ウェーバーの脱魔術化テーゼは、近代的合理化が世界から魔術的・宗教的意味を剥ぎ取り、道具的計算に置き換えるプロセスを記述する。",
+    "etymology": "secularize (v.) 世俗化する；disenchantment (n.) 脱魔術化；Weber ウェーバー；post-secular ポスト世俗的；religious revival 宗教的復興",
+    "derivatives": [
+      "secularize",
+      "disenchantment",
+      "Weber",
+      "post-secular"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 6
+  },
+  {
+    "id": 44,
+    "word": "cosmopolitanism",
+    "pos": "n.",
+    "meaning": "世界主義；コスモポリタニズム",
+    "example": "Cosmopolitanism argues that moral obligations extend beyond national borders, holding that our duties to distant strangers are comparable in principle to those we owe to fellow citizens.",
+    "translation": "世界主義は、道徳的義務が国境を超えて拡張すると主張し、遠くの見知らぬ人への義務が原則として同国民への義務と同等であると考える。",
+    "etymology": "cosmopolitan (adj./n.) 世界主義的な；global citizenship 地球市民；Kantian universalism カント的普遍主義；rooted cosmopolitanism 根ざしたコスモポリタニズム；parochialism (n.) 地方主義",
+    "derivatives": [
+      "cosmopolitan",
+      "global",
+      "Kantian",
+      "rooted"
+    ],
+    "topic": "History Reef",
+    "topicJp": "歴史・社会・政治",
+    "day": 6
+  },
+  {
+    "id": 45,
+    "word": "aesthetics",
+    "pos": "n.",
+    "meaning": "美学；審美性；美的感覚",
+    "example": "Kant's aesthetics proposes that judgements of beauty are neither purely subjective preferences nor objective properties of things, but a distinct kind of universal claim requiring agreement.",
+    "translation": "カントの美学は、美についての判断は純粋に主観的な好みでも物事の客観的特性でもなく、合意を必要とする独特の普遍的主張であると提唱する。",
+    "etymology": "aesthetic (adj.) 美的な；aesthetically (adv.) 美的に；aestheticism (n.) 唯美主義；sublime (adj./n.) 崇高（な）；taste (n.) 趣味・センス",
+    "derivatives": [
+      "aesthetic",
+      "aesthetically",
+      "aestheticism",
+      "sublime"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 7
+  },
+  {
+    "id": 46,
+    "word": "allegory",
+    "pos": "n.",
+    "meaning": "寓話；アレゴリー；比喩的表現",
+    "example": "Political allegory allows writers to critique authoritarian power through fictional displacement, reaching audiences who might resist direct polemic.",
+    "translation": "政治的アレゴリーは、作家が直接的な論争には抵抗するかもしれない読者に届くために、虚構的な置換を通じて権威主義的権力を批判することを可能にする。",
+    "etymology": "allegorical (adj.) 寓意的な；allegorize (v.) 寓意化する；fable (n.) 寓話；parable (n.) たとえ話；extended metaphor 継続的比喩",
+    "derivatives": [
+      "allegorical",
+      "allegorize",
+      "fable",
+      "parable"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 7
+  },
+  {
+    "id": 47,
+    "word": "satire",
+    "pos": "n.",
+    "meaning": "風刺；サタイア；諷刺文学",
+    "example": "Satire operates by exposing the gap between social ideals and the reality of human behaviour, using humour as a vehicle for moral and political critique.",
+    "translation": "風刺は、社会的理想と人間行動の現実の間の乖離を暴露することで機能し、道徳的・政治的批評の手段としてユーモアを用いる。",
+    "etymology": "satirical (adj.) 風刺的な；satirize (v.) 風刺する；satirist (n.) 風刺家；irony (n.) アイロニー；parody (n.) パロディ",
+    "derivatives": [
+      "satirical",
+      "satirize",
+      "satirist",
+      "irony"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 7
+  },
+  {
+    "id": 48,
+    "word": "modernism",
+    "pos": "n.",
+    "meaning": "モダニズム；近代主義（芸術・文学運動）",
+    "example": "Literary modernism broke with nineteenth-century conventions of plot and narrator, experimenting with fragmented form and interior monologue to represent the complexity of consciousness.",
+    "translation": "文学的モダニズムは19世紀の筋書きと語り手の慣習を打破し、意識の複雑さを表現するために断片的形式と内的独白を実験した。",
+    "etymology": "modernist (n./adj.) モダニスト；high modernism 高度モダニズム；avant-garde 前衛；postmodernism (n.) ポストモダニズム；stream of consciousness 意識の流れ",
+    "derivatives": [
+      "modernist",
+      "high",
+      "avant-garde",
+      "postmodernism"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 7
+  },
+  {
+    "id": 49,
+    "word": "archetype",
+    "pos": "n.",
+    "meaning": "原型；元型（ユング）；典型的パターン",
+    "example": "Jungian literary criticism argues that archetypal patterns — the hero's journey, the shadow, the wise elder — recur across cultures because they are rooted in the collective unconscious.",
+    "translation": "ユング派の文学批評は、英雄の旅・影・賢老人などの原型的パターンが集合的無意識に根ざしているために文化を超えて繰り返されると主張する。",
+    "etymology": "archetypal (adj.) 原型的な；Jung ユング；collective unconscious 集合的無意識；mytheme (n.) 神話素；universal pattern 普遍的パターン",
+    "derivatives": [
+      "archetypal",
+      "Jung",
+      "collective",
+      "mytheme"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 7
+  },
+  {
+    "id": 50,
+    "word": "dystopian",
+    "pos": "adj.",
+    "meaning": "ディストピア的な；暗黒社会的な",
+    "example": "Dystopian fiction functions as a warning rather than a prediction: by extrapolating current tendencies to their logical extreme, it forces readers to confront what is already latent in the present.",
+    "translation": "ディストピア小説は予言というよりも警告として機能する。現在の傾向を論理的極限まで外挿することで、すでに現在に潜在するものと読者が向き合うことを強いる。",
+    "etymology": "dystopia (n.) ディストピア；utopia (n.) ユートピア；anti-utopian (adj.) 反ユートピア的な；speculative fiction 思弁的小説；social critique 社会批評",
+    "derivatives": [
+      "dystopia",
+      "utopia",
+      "anti-utopian",
+      "speculative"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 7
+  },
+  {
+    "id": 51,
+    "word": "iconography",
+    "pos": "n.",
+    "meaning": "図像学；イコノグラフィー；象徴的表現体系",
+    "example": "Iconographic analysis reveals how images encode cultural, religious, and political meanings that transcend their immediate visual content.",
+    "translation": "図像学的分析は、画像がその直接的な視覚的内容を超えた文化的・宗教的・政治的意味をいかにコード化するかを明らかにする。",
+    "etymology": "iconographic (adj.) 図像学的な；icon (n.) 図像；symbolism (n.) 象徴主義；visual semiotics 視覚記号論；Panofsky パノフスキー",
+    "derivatives": [
+      "iconographic",
+      "icon",
+      "symbolism",
+      "visual"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 7
+  },
+  {
+    "id": 52,
+    "word": "postcolonial",
+    "pos": "adj.",
+    "meaning": "ポストコロニアルの；脱植民地主義的な",
+    "example": "Postcolonial criticism reads canonical texts against the grain to recover the perspectives of those silenced by imperial narratives of progress and civilisation.",
+    "translation": "ポストコロニアル批評は、進歩と文明の帝国的物語によって沈黙させられた人々の視点を回復するために、正典テキストを逆向きに読み解く。",
+    "etymology": "postcolonialism (n.) ポストコロニアリズム；subaltern (n.) サバルタン；Spivak スピヴァク；Bhabha バーバ；hybridity (n.) ハイブリディティ",
+    "derivatives": [
+      "postcolonialism",
+      "subaltern",
+      "Spivak",
+      "Bhabha"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 7
+  },
+  {
+    "id": 53,
+    "word": "genre",
+    "pos": "n.",
+    "meaning": "ジャンル；文学・芸術の様式",
+    "example": "Genre conventions create reader expectations that skilled authors may either fulfil to provide satisfaction or deliberately subvert to generate irony, surprise, or critical reflection.",
+    "translation": "ジャンルの慣習は読者の期待を形成し、熟練した作家はそれを満足を提供するために充足させるか、アイロニー・驚き・批判的省察を生み出すために意図的に転覆させるかを選ぶ。",
+    "etymology": "generic (adj.) ジャンルの；genre convention ジャンルの慣習；hybridization (n.) 混成化；subgenre (n.) サブジャンル；Bakhtin バフチン",
+    "derivatives": [
+      "generic",
+      "genre",
+      "hybridization",
+      "subgenre"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 7
+  },
+  {
+    "id": 54,
+    "word": "canon",
+    "pos": "n.",
+    "meaning": "正典；カノン；権威ある文学の集成",
+    "example": "Debates over the literary canon expose the political dimensions of cultural authority: determining which works are taught and preserved is an exercise of institutional power.",
+    "translation": "文学的正典をめぐる論争は文化的権威の政治的側面を露わにする。どの作品が教えられ保存されるかを決定することは制度的権力の行使である。",
+    "etymology": "canonical (adj.) 正典的な；canonicity (n.) 正典性；counter-canon 対抗正典；canonization (n.) 正典化；gatekeeping 参入制限",
+    "derivatives": [
+      "canonical",
+      "canonicity",
+      "counter-canon",
+      "canonization"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 7
+  },
+  {
+    "id": 55,
+    "word": "sublime",
+    "pos": "n./adj.",
+    "meaning": "崇高（なもの）；圧倒的な美",
+    "example": "Burke distinguished the sublime from the beautiful by associating it with vastness, obscurity, and an element of terror that overwhelms the senses rather than pleasing them.",
+    "translation": "バークは崇高を美から区別し、それを美的快楽ではなく感覚を圧倒する広大さ・曖昧さ・恐怖の要素と結びつけた。",
+    "etymology": "sublimity (n.) 崇高さ；Kant カント；Burke バーク；the picturesque 風景美；awe (n.) 畏敬",
+    "derivatives": [
+      "sublimity",
+      "Kant",
+      "Burke",
+      "awe"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 8
+  },
+  {
+    "id": 56,
+    "word": "mimesis",
+    "pos": "n.",
+    "meaning": "ミメーシス；模倣；現実の芸術的再現",
+    "example": "Aristotle's concept of mimesis frames artistic representation not as slavish copying of reality but as a creative recreation that captures the universal underlying the particular.",
+    "translation": "アリストテレスのミメーシス概念は、芸術的表現を現実の奴隷的な模写ではなく、個別のものの下にある普遍を捉える創造的な再創造として位置づける。",
+    "etymology": "mimetic (adj.) 模倣的な；representation (n.) 表象；Aristotle アリストテレス；Auerbach アウエルバッハ；realism (n.) リアリズム",
+    "derivatives": [
+      "mimetic",
+      "representation",
+      "Aristotle",
+      "Auerbach"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 8
+  },
+  {
+    "id": 57,
+    "word": "hybridity",
+    "pos": "n.",
+    "meaning": "ハイブリディティ；混成性；文化的混合",
+    "example": "Bhabha's concept of cultural hybridity challenges the idea of pure, fixed identities, arguing that colonial encounters produce a third space in which new meanings are negotiated.",
+    "translation": "バーバの文化的ハイブリディティ概念は、純粋で固定されたアイデンティティという考えに異議を唱え、植民地的出会いが新しい意味が交渉される第三の空間を生み出すと主張する。",
+    "etymology": "hybrid (adj./n.) 混成的な；Bhabha バーバ；third space 第三の空間；cultural fusion 文化的融合；syncretism (n.) 混合主義",
+    "derivatives": [
+      "hybrid",
+      "Bhabha",
+      "third",
+      "cultural"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 8
+  },
+  {
+    "id": 58,
+    "word": "avant-garde",
+    "pos": "n./adj.",
+    "meaning": "前衛（芸術）；先駆的な",
+    "example": "The historical avant-garde movements of the early twentieth century sought to dissolve the boundary between art and life, challenging the autonomy of aesthetic experience from social practice.",
+    "translation": "20世紀初頭の歴史的前衛運動は芸術と生活の境界を溶解させようとし、社会的実践からの美的経験の自律性に異議を唱えた。",
+    "etymology": "vanguard (n.) 先鋒；experimental art 実験的芸術；defamiliarization (n.) 異化；Shklovsky シクロフスキー；institution of art 芸術制度",
+    "derivatives": [
+      "vanguard",
+      "experimental",
+      "defamiliarization",
+      "Shklovsky"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 8
+  },
+  {
+    "id": 59,
+    "word": "motif",
+    "pos": "n.",
+    "meaning": "モチーフ；繰り返しのテーマ・象徴",
+    "example": "A recurring motif in postcolonial literature is the figure of the returned exile, whose estrangement from both homeland and adopted country dramatises the costs of displacement.",
+    "translation": "ポストコロニアル文学で繰り返されるモチーフは帰還した亡命者の形象であり、故国と採用国の双方からの疎外が移住の代償を劇的に示す。",
+    "etymology": "leitmotif (n.) ライトモティーフ；recurrence (n.) 繰り返し；symbol (n.) 象徴；theme (n.) テーマ；imagery (n.) イメージ",
+    "derivatives": [
+      "leitmotif",
+      "recurrence",
+      "symbol",
+      "theme"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 8
+  },
+  {
+    "id": 60,
+    "word": "defamiliarization",
+    "pos": "n.",
+    "meaning": "異化；見慣れたものを奇異に感じさせること",
+    "example": "Shklovsky argued that art achieves its purpose through defamiliarization — presenting familiar objects and experiences in ways that restore the sensation of seeing them for the first time.",
+    "translation": "シクロフスキーは、芸術が異化によってその目的を達成すると主張した。つまり、見慣れた対象や経験を初めて見る感覚を回復させる方法で提示することによって。",
+    "etymology": "ostranenie (n.) 異化（ロシア語）；Shklovsky シクロフスキー；automatization (n.) 自動化；making strange 奇異化；formalism (n.) 形式主義",
+    "derivatives": [
+      "ostranenie",
+      "Shklovsky",
+      "automatization",
+      "making"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 8
+  },
+  {
+    "id": 61,
+    "word": "intertextuality",
+    "pos": "n.",
+    "meaning": "間テクスト性；テクスト間の相互参照",
+    "example": "Kristeva's concept of intertextuality insists that every text is a mosaic of quotations and transformations of prior texts, destabilising the notion of singular authorial originality.",
+    "translation": "クリステヴァの間テクスト性概念は、すべてのテキストが引用と先行テキストの変形のモザイクであると主張し、単一の著者の独自性という概念を不安定化させる。",
+    "etymology": "intertextual (adj.) 間テクスト的な；Kristeva クリステヴァ；allusion (n.) 典拠への言及；palimpsest (n.) 上書き文書；pastiche (n.) パスティーシュ",
+    "derivatives": [
+      "intertextual",
+      "Kristeva",
+      "allusion",
+      "palimpsest"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 8
+  },
+  {
+    "id": 62,
+    "word": "trope",
+    "pos": "n.",
+    "meaning": "修辞的転義；比喩；決まり文句",
+    "example": "Literary tropes such as metaphor and metonymy are not mere decorative devices but fundamental cognitive tools through which human beings organise and communicate experience.",
+    "translation": "隠喩や換喩などの文学的転義は単なる装飾的な手段ではなく、人間が経験を整理し伝達するための基本的な認知的道具である。",
+    "etymology": "figurative language 比喩的言語；metaphor (n.) 隠喩；metonymy (n.) 換喩；synecdoche (n.) 提喩；cliché (n.) 陳腐な表現",
+    "derivatives": [
+      "figurative",
+      "metaphor",
+      "metonymy",
+      "synecdoche"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 8
+  },
+  {
+    "id": 63,
+    "word": "verisimilitude",
+    "pos": "n.",
+    "meaning": "真実らしさ；リアリティの感覚",
+    "example": "Verisimilitude in fiction is not the same as factual accuracy; it refers to the internal consistency and plausibility that allows readers to enter imaginatively into a fictional world.",
+    "translation": "フィクションにおける真実らしさは事実の正確さと同じではない。それは読者が想像上でフィクションの世界に入ることを可能にする内的一貫性ともっともらしさを指す。",
+    "etymology": "verisimilar (adj.) 真実らしい；realism (n.) リアリズム；plausibility (n.) もっともらしさ；suspension of disbelief 不信の停止；naturalism (n.) 自然主義",
+    "derivatives": [
+      "verisimilar",
+      "realism",
+      "plausibility",
+      "suspension"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 8
+  },
+  {
+    "id": 64,
+    "word": "romanticism",
+    "pos": "n.",
+    "meaning": "ロマン主義",
+    "example": "Romanticism, as a reaction against Enlightenment rationalism and industrial modernity, privileged emotion, imagination, and nature as sources of authentic human experience.",
+    "translation": "ロマン主義は啓蒙主義的合理主義と産業的近代性への反動として、感情・想像力・自然を真正な人間的経験の源として特権化した。",
+    "etymology": "romantic (adj.) ロマン主義的な；romanticism 낭만주의；transcendentalism (n.) 超越主義；sublime (n.) 崇高；organic form 有機的形式",
+    "derivatives": [
+      "romantic",
+      "romanticism",
+      "transcendentalism",
+      "sublime"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 8
+  },
+  {
+    "id": 65,
+    "word": "pastoral",
+    "pos": "n./adj.",
+    "meaning": "田園詩（の）；牧歌的な",
+    "example": "The pastoral tradition idealises rural life as a refuge from urban corruption, yet critics have shown that this idealisation often masks the exploitation of agricultural labour.",
+    "translation": "牧歌的伝統は農村生活を都市的腐敗からの避難所として理想化するが、批評家はこの理想化がしばしば農業労働の搾取を覆い隠すことを示してきた。",
+    "etymology": "pastoralism (n.) 牧歌主義；idyll (n.) 牧歌；nostalgia (n.) ノスタルジア；arcadia アルカディア；anti-pastoral 反牧歌",
+    "derivatives": [
+      "pastoralism",
+      "idyll",
+      "nostalgia",
+      "arcadia"
+    ],
+    "topic": "Culture Cove",
+    "topicJp": "文化・芸術・文学",
+    "day": 9
+  },
+  {
+    "id": 66,
+    "word": "metacognition",
+    "pos": "n.",
+    "meaning": "メタ認知；自分の思考についての思考",
+    "example": "Metacognition — the capacity to monitor and regulate one's own thought processes — is a more reliable predictor of academic success than intelligence alone.",
+    "translation": "自分自身の思考プロセスを監視・調節する能力であるメタ認知は、知性単独よりも学業的成功のより信頼できる予測因子である。",
+    "etymology": "metacognitive (adj.) メタ認知的な；self-regulation 自己調節；executive function 実行機能；monitoring (n.) モニタリング；metacognitive strategy メタ認知方略",
+    "derivatives": [
+      "metacognitive",
+      "self-regulation",
+      "executive",
+      "monitoring"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 10
+  },
+  {
+    "id": 67,
+    "word": "neuroplasticity",
+    "pos": "n.",
+    "meaning": "神経可塑性；脳の可塑性",
+    "example": "Research on neuroplasticity challenges the assumption that adult cognitive abilities are fixed, demonstrating that sustained learning can reshape neural architecture throughout life.",
+    "translation": "神経可塑性に関する研究は、成人の認知能力が固定されているという前提に異議を唱え、持続的な学習が生涯にわたって神経構造を再形成できることを示している。",
+    "etymology": "neuroplastic (adj.) 神経可塑的な；synaptic plasticity シナプス可塑性；neural rewiring 神経回路の再構成；experience-dependent plasticity 経験依存的可塑性；Hebbian learning ヘブ学習",
+    "derivatives": [
+      "neuroplastic",
+      "synaptic",
+      "neural",
+      "experience-dependent"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 10
+  },
+  {
+    "id": 68,
+    "word": "heuristic",
+    "pos": "n./adj.",
+    "meaning": "ヒューリスティック；発見的手法／直感的な",
+    "example": "Heuristics are cognitive shortcuts that allow rapid judgements under uncertainty, but their efficiency comes at the cost of systematic errors that careful deliberation could correct.",
+    "translation": "ヒューリスティックは不確実な状況下での迅速な判断を可能にする認知的近道だが、その効率性は、注意深い熟慮で修正できる体系的誤りを代償として伴う。",
+    "etymology": "availability heuristic 利用可能性ヒューリスティック；representativeness heuristic 代表性ヒューリスティック；anchoring アンカリング；Kahneman カーネマン；cognitive bias 認知バイアス",
+    "derivatives": [
+      "availability",
+      "representativeness",
+      "anchoring",
+      "Kahneman"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 10
+  },
+  {
+    "id": 69,
+    "word": "schema",
+    "pos": "n.",
+    "meaning": "スキーマ；認知的枠組み",
+    "example": "When readers encounter a text, they activate relevant schemata that guide interpretation, supplying background knowledge to fill gaps that the author has left implicit.",
+    "translation": "読者がテキストに出会うとき、著者が暗黙のままにしておいた空白を埋めるための背景知識を供給する関連するスキーマを活性化させる。",
+    "etymology": "schemata (n.pl.) スキーマ（複数形）；schema theory スキーマ理論；script (n.) スクリプト（状況スキーマ）；assimilation (n.) 同化；accommodation (n.) 調節",
+    "derivatives": [
+      "schemata",
+      "schema",
+      "script",
+      "assimilation"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 10
+  },
+  {
+    "id": 70,
+    "word": "pedagogy",
+    "pos": "n.",
+    "meaning": "教授法；教育学；教育実践",
+    "example": "Critical pedagogy, as developed by Freire, rejects the 'banking' model of education in which students passively receive knowledge deposited by authoritative teachers.",
+    "translation": "フレイレが発展させた批判的教育学は、権威ある教師が預け入れた知識を生徒が受動的に受け取る「貯金」モデルの教育を拒否する。",
+    "etymology": "pedagogical (adj.) 教授法的な；pedagogue (n.) 教師；critical pedagogy 批判的教育学；Freire フレイレ；didactics (n.) 教授学",
+    "derivatives": [
+      "pedagogical",
+      "pedagogue",
+      "critical",
+      "Freire"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 10
+  },
+  {
+    "id": 71,
+    "word": "scaffolding",
+    "pos": "n.",
+    "meaning": "足場掛け；学習支援の段階的構造",
+    "example": "Instructional scaffolding provides temporary support that enables learners to accomplish tasks beyond their current independent capacity, with the intention of gradually withdrawing that support.",
+    "translation": "指導上の足場掛けは、学習者が現在の独立した能力を超えた課題を達成できるよう一時的な支援を提供し、その支援を段階的に取り除く意図を持つ。",
+    "etymology": "scaffold (v.) 足場を作る；zone of proximal development 最近接発達領域；Vygotsky ヴィゴツキー；guided practice 指導付き練習；gradual release 漸進的手放し",
+    "derivatives": [
+      "scaffold",
+      "zone",
+      "Vygotsky",
+      "guided"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 10
+  },
+  {
+    "id": 72,
+    "word": "interleaving",
+    "pos": "n.",
+    "meaning": "交互練習法；間隔反復学習",
+    "example": "Research in cognitive science has shown that interleaving different topics during study, though more demanding than blocked practice, produces substantially better long-term retention.",
+    "translation": "認知科学の研究は、学習中に異なるトピックを交互に配置することが、ブロック練習より負荷が大きいにもかかわらず、長期記憶の保持において著しく優れた結果をもたらすことを示している。",
+    "etymology": "interleave (v.) 交互に配置する；spaced practice 間隔練習；blocked practice ブロック練習；desirable difficulty 望ましい困難；retrieval practice 想起練習",
+    "derivatives": [
+      "interleave",
+      "spaced",
+      "blocked",
+      "desirable"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 10
+  },
+  {
+    "id": 73,
+    "word": "habituation",
+    "pos": "n.",
+    "meaning": "慣れ；馴化；感覚の慣れ",
+    "example": "Habituation — the decline in response to a repeated stimulus — is one of the most fundamental forms of learning, observed across virtually all animal species.",
+    "translation": "反復刺激への反応の減衰である馴化は、事実上すべての動物種で観察される、最も基本的な学習形態の一つである。",
+    "etymology": "habituate (v.) 慣れさせる；desensitization (n.) 脱感作；sensitization (n.) 感作；orienting reflex 定位反射；stimulus-response 刺激-反応",
+    "derivatives": [
+      "habituate",
+      "desensitization",
+      "sensitization",
+      "orienting"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 10
+  },
+  {
+    "id": 74,
+    "word": "cognitive dissonance",
+    "pos": "n.",
+    "meaning": "認知的不協和",
+    "example": "Cognitive dissonance arises when a person holds two mutually contradictory beliefs or when their actions are inconsistent with their stated values, creating psychological discomfort that motivates change.",
+    "translation": "認知的不協和は、人が相互に矛盾する二つの信念を持つとき、または行動が述べられた価値観と矛盾するときに生じ、変化を動機づける心理的不快感を生み出す。",
+    "etymology": "dissonance reduction 不協和の低減；Festinger フェスティンガー；attitude change 態度変容；rationalisation (n.) 合理化；belief perseverance 信念の持続",
+    "derivatives": [
+      "dissonance",
+      "Festinger",
+      "attitude",
+      "rationalisation"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 10
+  },
+  {
+    "id": 75,
+    "word": "attribution",
+    "pos": "n.",
+    "meaning": "帰属；原因の帰属",
+    "example": "Attribution theory examines how individuals explain the causes of events, finding that people systematically overestimate the role of personal disposition relative to situational factors.",
+    "translation": "帰属理論は個人がどのように出来事の原因を説明するかを検討し、人々が状況的要因に対して個人的性質の役割を体系的に過大評価することを発見した。",
+    "etymology": "attribution theory 帰属理論；internal / external attribution 内的／外的帰属；fundamental attribution error 基本的帰属エラー；Weiner ワイナー；self-serving bias 自己奉仕バイアス",
+    "derivatives": [
+      "attribution",
+      "internal",
+      "fundamental",
+      "Weiner"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 10
+  },
+  {
+    "id": 76,
+    "word": "embodiment",
+    "pos": "n.",
+    "meaning": "身体化；具現化；体現",
+    "example": "Embodied cognition challenges the Cartesian separation of mind and body, arguing that cognitive processes are fundamentally shaped by the physical structure and sensorimotor capacities of the body.",
+    "translation": "身体化認知はデカルト的な心身分離に異議を唱え、認知プロセスが身体の物理的構造と感覚運動能力によって根本的に形成されると主張する。",
+    "etymology": "embodied cognition 身体化認知；enactivism (n.) 行為主義的認知；Merleau-Ponty メルロー＝ポンティ；somatic (adj.) 身体的な；phenomenology (n.) 現象学",
+    "derivatives": [
+      "embodied",
+      "enactivism",
+      "Merleau-Ponty",
+      "somatic"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 11
+  },
+  {
+    "id": 77,
+    "word": "executive function",
+    "pos": "n.",
+    "meaning": "実行機能",
+    "example": "Executive functions — including working memory, inhibitory control, and cognitive flexibility — are coordinated by the prefrontal cortex and are essential for goal-directed behaviour.",
+    "translation": "ワーキングメモリ・抑制制御・認知的柔軟性を含む実行機能は前頭前野によって調整され、目標指向的行動に不可欠である。",
+    "etymology": "working memory ワーキングメモリ；inhibitory control 抑制制御；cognitive flexibility 認知的柔軟性；prefrontal cortex 前頭前野；self-regulation 自己調節",
+    "derivatives": [
+      "working",
+      "inhibitory",
+      "cognitive",
+      "prefrontal"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 11
+  },
+  {
+    "id": 78,
+    "word": "intrinsic motivation",
+    "pos": "n.",
+    "meaning": "内発的動機づけ",
+    "example": "Self-determination theory distinguishes intrinsic motivation — acting for the inherent satisfaction of the activity — from extrinsic motivation, where behaviour is driven by external rewards or pressures.",
+    "translation": "自己決定理論は、活動の内在的満足のために行動する内発的動機づけを、行動が外的報酬や圧力によって駆動される外発的動機づけから区別する。",
+    "etymology": "extrinsic motivation 外発的動機；self-determination theory 自己決定理論；Deci and Ryan デシとライアン；autonomy (n.) 自律性；competence (n.) 有能感",
+    "derivatives": [
+      "extrinsic",
+      "self-determination",
+      "Deci",
+      "autonomy"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 11
+  },
+  {
+    "id": 79,
+    "word": "confirmation bias",
+    "pos": "n.",
+    "meaning": "確証バイアス",
+    "example": "Confirmation bias — the tendency to seek, interpret, and remember information in ways that confirm pre-existing beliefs — poses a serious challenge to rational deliberation and scientific inquiry.",
+    "translation": "確証バイアス（既存の信念を確認する方法で情報を探し・解釈し・記憶する傾向）は、合理的熟慮と科学的探究に対して深刻な課題をもたらす。",
+    "etymology": "cognitive bias 認知バイアス；motivated reasoning 動機づけられた推論；disconfirmation 反証；epistemic closure 認識論的閉鎖；Kahneman カーネマン",
+    "derivatives": [
+      "cognitive",
+      "motivated",
+      "disconfirmation",
+      "epistemic"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 11
+  },
+  {
+    "id": 80,
+    "word": "affordance",
+    "pos": "n.",
+    "meaning": "アフォーダンス；環境が提供する行為可能性",
+    "example": "Gibson's concept of affordance describes the action possibilities that an environment offers to an organism, challenging the view that perception involves passive reception of sensory data.",
+    "translation": "ギブソンのアフォーダンス概念は、環境が生物に提供する行為可能性を記述し、知覚が感覚データの受動的な受容を伴うという見方に異議を唱える。",
+    "etymology": "Gibson ギブソン；ecological psychology 生態学的心理学；perception-action 知覚-行為；niche (n.) ニッチ；umwelt (n.) 環世界",
+    "derivatives": [
+      "Gibson",
+      "ecological",
+      "perception-action",
+      "niche"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 11
+  },
+  {
+    "id": 81,
+    "word": "flow",
+    "pos": "n.",
+    "meaning": "フロー；最適経験の状態",
+    "example": "Csikszentmihalyi's concept of flow describes a state of complete absorption in a challenging task in which self-consciousness recedes and time is experienced as passing effortlessly.",
+    "translation": "チクセントミハイのフロー概念は、自意識が後退し時間が努力なく過ぎ去るように感じられる、挑戦的な課題への完全な没入状態を記述する。",
+    "etymology": "Csikszentmihalyi チクセントミハイ；optimal experience 最適経験；deep engagement 深い没入；challenge-skill balance 挑戦-技術バランス；autotelic 自己目的的",
+    "derivatives": [
+      "Csikszentmihalyi",
+      "optimal",
+      "deep",
+      "challenge-skill"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 11
+  },
+  {
+    "id": 82,
+    "word": "cognitive load",
+    "pos": "n.",
+    "meaning": "認知的負荷",
+    "example": "Cognitive load theory recommends that instructional materials be designed to minimise extraneous cognitive demands so that learners can devote their limited working memory to constructing new understanding.",
+    "translation": "認知的負荷理論は、学習者が限られたワーキングメモリを新しい理解の構築に充てられるよう、教授教材が外在的な認知的要求を最小化するよう設計されることを推奨する。",
+    "etymology": "intrinsic / extraneous load 内在的／外在的負荷；working memory ワーキングメモリ；Sweller スウェラー；instructional design 教授設計；chunking (n.) チャンキング",
+    "derivatives": [
+      "intrinsic",
+      "working",
+      "Sweller",
+      "instructional"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 11
+  },
+  {
+    "id": 83,
+    "word": "resilience",
+    "pos": "n.",
+    "meaning": "心理的回復力；レジリエンス",
+    "example": "Psychological resilience is not simply an innate trait but a dynamic capacity shaped by social support, cognitive appraisal, and the cumulative experience of overcoming adversity.",
+    "translation": "心理的回復力は単なる生得的特性ではなく、社会的支援・認知的評価・逆境を乗り越える累積的経験によって形成される動的な能力である。",
+    "etymology": "resilient (adj.) 回復力のある；adversity (n.) 逆境；post-traumatic growth 心的外傷後成長；protective factor 保護因子；Bonanno ボナンノ",
+    "derivatives": [
+      "resilient",
+      "adversity",
+      "post-traumatic",
+      "protective"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 11
+  },
+  {
+    "id": 84,
+    "word": "critical thinking",
+    "pos": "n.",
+    "meaning": "批判的思考",
+    "example": "Critical thinking involves not merely evaluating arguments for logical consistency but examining the underlying assumptions, evidence standards, and contextual factors that shape how claims are made.",
+    "translation": "批判的思考は、論理的一貫性のために論証を評価するだけでなく、主張がなされる方法を形成する根本的な前提・証拠の基準・文脈的要因を検討することを伴う。",
+    "etymology": "higher-order thinking 高次思考；analytical reasoning 分析的推論；epistemic virtue 認識論的徳；intellectual humility 知的謙虚さ；metacognition メタ認知",
+    "derivatives": [
+      "higher-order",
+      "analytical",
+      "epistemic",
+      "intellectual"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 11
+  },
+  {
+    "id": 85,
+    "word": "transfer of learning",
+    "pos": "n.",
+    "meaning": "学習の転移",
+    "example": "Far transfer — the application of knowledge learned in one context to a substantially different problem — is the ultimate goal of education yet proves the most difficult form of learning to achieve.",
+    "translation": "遠位転移（ある文脈で学んだ知識を実質的に異なる問題に応用すること）は教育の究極の目標であるが、達成するのが最も困難な学習形態であることが証明されている。",
+    "etymology": "near / far transfer 近位／遠位転移；analogical reasoning 類比的推論；generalization (n.) 般化；Thorndike ソーンダイク；deliberate practice 意図的練習",
+    "derivatives": [
+      "near",
+      "analogical",
+      "generalization",
+      "Thorndike"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 11
+  },
+  {
+    "id": 86,
+    "word": "social learning",
+    "pos": "n.",
+    "meaning": "社会的学習",
+    "example": "Bandura's social learning theory demonstrated that children can acquire new behaviours by observing and imitating models, without requiring direct reinforcement for each individual act.",
+    "translation": "バンデューラの社会的学習理論は、子どもが各個別の行為に対する直接的な強化を必要とせずに、モデルを観察・模倣することで新しい行動を獲得できることを示した。",
+    "etymology": "observational learning 観察学習；Bandura バンデューラ；modelling (n.) モデリング；vicarious reinforcement 代理強化；self-efficacy (n.) 自己効力感",
+    "derivatives": [
+      "observational",
+      "Bandura",
+      "modelling",
+      "vicarious"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 12
+  },
+  {
+    "id": 87,
+    "word": "working memory",
+    "pos": "n.",
+    "meaning": "ワーキングメモリ；作業記憶",
+    "example": "Working memory is a limited-capacity system that holds and manipulates information during active cognitive tasks such as comprehension, reasoning, and problem-solving.",
+    "translation": "ワーキングメモリは、理解・推論・問題解決などの活発な認知的課題中に情報を保持・操作する容量制限されたシステムである。",
+    "etymology": "short-term memory 短期記憶；phonological loop 音韻ループ；visuospatial sketchpad 視空間メモ帳；Baddeley バッドリー；executive function 実行機能",
+    "derivatives": [
+      "short-term",
+      "phonological",
+      "visuospatial",
+      "Baddeley"
+    ],
+    "topic": "Mind Mangrove",
+    "topicJp": "心理・認知・学習",
+    "day": 12
+  },
+  {
+    "id": 88,
+    "word": "intersectionality",
+    "pos": "n.",
+    "meaning": "インターセクショナリティ；交差性",
+    "example": "Intersectionality demonstrates that experiences of discrimination cannot be understood by examining race, gender, or class in isolation; their convergence creates qualitatively distinct forms of oppression.",
+    "translation": "インターセクショナリティは、差別の経験は人種・ジェンダー・階級を個別に検討することでは理解できないことを示す。それらの収束は質的に異なる抑圧の形態を生み出す。",
+    "etymology": "intersectional (adj.) 交差的な；Crenshaw クレンショー；matrix of domination 支配のマトリクス；identity politics アイデンティティ政治；overlapping systems 重複するシステム",
+    "derivatives": [
+      "intersectional",
+      "Crenshaw",
+      "matrix",
+      "identity"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 13
+  },
+  {
+    "id": 89,
+    "word": "systemic",
+    "pos": "adj.",
+    "meaning": "制度的な；システミックな；構造的な",
+    "example": "Systemic racism operates not primarily through individual prejudice but through the embedded policies, practices, and norms of institutions that produce racially unequal outcomes.",
+    "translation": "制度的人種差別は主に個人的偏見を通じてではなく、人種的に不平等な結果をもたらす制度の組み込まれた政策・慣行・規範を通じて機能する。",
+    "etymology": "systemic racism 制度的人種差別；systemic inequality 構造的不平等；structural (adj.) 構造的な；endemic (adj.) 根深い；institutionalised (adj.) 制度化された",
+    "derivatives": [
+      "systemic",
+      "systemic",
+      "structural",
+      "endemic"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 13
+  },
+  {
+    "id": 90,
+    "word": "complicity",
+    "pos": "n.",
+    "meaning": "共謀；加担；道徳的責任の共有",
+    "example": "The concept of complicity extends moral responsibility beyond direct perpetrators to those who benefit from, enable, or fail to challenge unjust systems.",
+    "translation": "共謀の概念は道徳的責任を直接の加害者を超えて、不当なシステムから利益を得る人・可能にする人・挑戦することに失敗する人へと拡張する。",
+    "etymology": "complicit (adj.) 共謀した；collude (v.) 共謀する；bystander effect 傍観者効果；moral responsibility 道徳的責任；passive complicity 消極的加担",
+    "derivatives": [
+      "complicit",
+      "collude",
+      "bystander",
+      "moral"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 13
+  },
+  {
+    "id": 91,
+    "word": "precarity",
+    "pos": "n.",
+    "meaning": "不安定性；プレカリティ；生の脆弱性",
+    "example": "Precarity describes not only economic instability but a broader condition of insecurity that shapes the life chances of those excluded from formal protections.",
+    "translation": "プレカリティは経済的不安定だけでなく、公式な保護から排除された人々の人生の機会を形成するより広い不安全の状態を記述する。",
+    "etymology": "precarious (adj.) 不安定な；precariously (adv.) 不安定に；precariat (n.) プレカリアート；economic insecurity 経済的不安定；Butler バトラー",
+    "derivatives": [
+      "precarious",
+      "precariously",
+      "precariat",
+      "economic"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 13
+  },
+  {
+    "id": 92,
+    "word": "solidarity",
+    "pos": "n.",
+    "meaning": "連帯；共同体的絆；社会的結束",
+    "example": "Solidarity is not simply an emotional sentiment but a political practice through which groups articulate shared interests and coordinate action against common sources of oppression.",
+    "translation": "連帯は単なる感情的な感情ではなく、集団が共通の利益を明示し、共通の抑圧の源に対して行動を調整する政治的実践である。",
+    "etymology": "solidary (adj.) 連帯した；social solidarity 社会的連帯；Durkheim デュルケーム；collective action 集合的行動；allyship (n.) 連帯支援",
+    "derivatives": [
+      "solidary",
+      "social",
+      "Durkheim",
+      "collective"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 13
+  },
+  {
+    "id": 93,
+    "word": "microaggression",
+    "pos": "n.",
+    "meaning": "マイクロアグレッション；日常的な差別的言動",
+    "example": "Microaggressions — brief, commonplace exchanges that communicate negative messages to members of marginalised groups — cause harm through their cumulative and relentless frequency.",
+    "translation": "マイクロアグレッション（周縁化された集団のメンバーにネガティブなメッセージを伝える簡潔で日常的なやりとり）は、その累積的で絶え間ない頻度を通じて害をもたらす。",
+    "etymology": "microaggressive (adj.) マイクロアグレッション的な；macro-aggression 明示的差別；implicit bias 潜在的バイアス；cumulative harm 累積的害；Sue スー",
+    "derivatives": [
+      "microaggressive",
+      "macro-aggression",
+      "implicit",
+      "cumulative"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 13
+  },
+  {
+    "id": 94,
+    "word": "decolonize",
+    "pos": "v.",
+    "meaning": "脱植民地化する；植民地主義から解放する",
+    "example": "Calls to decolonize the curriculum challenge not only which authors are taught but the underlying assumptions about whose knowledge systems count as legitimate.",
+    "translation": "カリキュラムを脱植民地化する要求は、どの著者が教えられるかだけでなく、誰の知識体系が正当とみなされるかについての根本的な前提に挑戦する。",
+    "etymology": "decolonization (n.) 脱植民地化；decolonial (adj.) 脱植民地的な；settler colonialism 入植者植民地主義；indigenous knowledge 先住民の知識；epistemic justice 認識論的正義",
+    "derivatives": [
+      "decolonization",
+      "decolonial",
+      "settler",
+      "indigenous"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 13
+  },
+  {
+    "id": 95,
+    "word": "vulnerability",
+    "pos": "n.",
+    "meaning": "脆弱性；傷つきやすさ；弱さ",
+    "example": "Butler's analysis of vulnerability argues that human bodies are constitutively dependent on others and on social conditions for their survival and flourishing.",
+    "translation": "バトラーの脆弱性の分析は、人間の身体がその生存と繁栄のために他者と社会的条件に構成的に依存していると主張する。",
+    "etymology": "vulnerable (adj.) 脆弱な；vulnerably (adv.) 脆弱に；precarity (n.) 不安定性；resilience (n.) 回復力；Butler バトラー（身体の脆弱性）",
+    "derivatives": [
+      "vulnerable",
+      "vulnerably",
+      "precarity",
+      "resilience"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 13
+  },
+  {
+    "id": 96,
+    "word": "othering",
+    "pos": "n.",
+    "meaning": "他者化；他者として扱うこと",
+    "example": "Othering is the discursive process by which dominant groups construct subordinate populations as fundamentally different, positioning them as objects of study, fear, or charitable intervention.",
+    "translation": "他者化は、支配的集団が従属的な集団を本質的に異なるものとして構築し、研究・恐怖・慈善的介入の対象として位置づける言説的プロセスである。",
+    "etymology": "otherness (n.) 他者性；alterity (n.) 他性；Said サイード；orientalism (n.) オリエンタリズム；dehumanization (n.) 非人間化",
+    "derivatives": [
+      "otherness",
+      "alterity",
+      "Said",
+      "orientalism"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 13
+  },
+  {
+    "id": 97,
+    "word": "subaltern",
+    "pos": "n./adj.",
+    "meaning": "サバルタン；従属的な立場の人",
+    "example": "Spivak's question 'Can the subaltern speak?' challenges the capacity of academic discourse to represent the perspectives of marginalised groups without re-silencing them through scholarly appropriation.",
+    "translation": "スピヴァクの「サバルタンは語ることができるか？」という問いは、学術的言説が学問的流用を通じて再び沈黙させることなく周縁化された集団の視点を表象できるかを問う。",
+    "etymology": "Spivak スピヴァク；postcolonialism (n.) ポストコロニアリズム；voice (n.) 声；silencing (n.) 沈黙化；representation (n.) 代表／表象",
+    "derivatives": [
+      "Spivak",
+      "postcolonialism",
+      "voice",
+      "silencing"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 13
+  },
+  {
+    "id": 98,
+    "word": "implicit bias",
+    "pos": "n.",
+    "meaning": "潜在的バイアス；無意識の偏見",
+    "example": "Implicit bias refers to the attitudes and stereotypes that influence judgements and behaviour automatically and unconsciously, even in individuals who consciously endorse egalitarian values.",
+    "translation": "潜在的バイアスとは、意識的に平等主義的価値観を支持する個人においてさえ、自動的・無意識的に判断と行動に影響を与える態度やステレオタイプを指す。",
+    "etymology": "unconscious bias 無意識の偏見；IAT 潜在連合テスト；stereotype threat ステレオタイプ脅威；prejudice (n.) 偏見；discrimination (n.) 差別",
+    "derivatives": [
+      "unconscious",
+      "IAT",
+      "stereotype",
+      "prejudice"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 14
+  },
+  {
+    "id": 99,
+    "word": "performativity",
+    "pos": "n.",
+    "meaning": "パフォーマティヴィティ；遂行性",
+    "example": "Butler's theory of gender performativity argues that gender is not an innate essence but a set of repeated acts, citations, and stylisations that produce the illusion of a stable inner identity.",
+    "translation": "バトラーのジェンダーの遂行性理論は、ジェンダーは生得的な本質ではなく、安定した内的アイデンティティという幻想を生み出す繰り返しの行為・引用・様式化の集合であると主張する。",
+    "etymology": "performative (adj.) 遂行的な；Butler バトラー；speech act 発話行為；Austin オースティン；gender performativity ジェンダーの遂行性",
+    "derivatives": [
+      "performative",
+      "Butler",
+      "speech",
+      "Austin"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 14
+  },
+  {
+    "id": 100,
+    "word": "epistemic injustice",
+    "pos": "n.",
+    "meaning": "認識論的不正義",
+    "example": "Miranda Fricker's epistemic injustice identifies two forms: testimonial injustice, in which someone's credibility is deflated due to identity prejudice, and hermeneutical injustice, in which a gap in collective understanding harms the interpreter.",
+    "translation": "ミランダ・フリッカーの認識論的不正義は二つの形態を同定する。アイデンティティ偏見により信頼性が低く見られる証言的不正義と、集合的理解の欠如が解釈者を傷つける解釈的不正義である。",
+    "etymology": "testimonial injustice 証言的不正義；hermeneutical injustice 解釈的不正義；Fricker フリッカー；credibility deficit 信頼性の欠如；epistemic marginalization 認識論的周縁化",
+    "derivatives": [
+      "testimonial",
+      "hermeneutical",
+      "Fricker",
+      "credibility"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 14
+  },
+  {
+    "id": 101,
+    "word": "white privilege",
+    "pos": "n.",
+    "meaning": "白人特権",
+    "example": "The concept of white privilege draws attention to the unearned advantages that accrue to individuals racialised as white in societies structured by racial hierarchy, even in the absence of conscious intent to discriminate.",
+    "translation": "白人特権の概念は、差別する意識的意図がなくとも、人種的ヒエラルキーによって構造化された社会において白人として人種化された個人に蓄積される不当な優位に注意を向ける。",
+    "etymology": "privilege (n.) 特権；McIntosh マッキントッシュ；invisible knapsack 見えないリュック；racial advantage 人種的優位；unearned advantage 不当な優位",
+    "derivatives": [
+      "privilege",
+      "McIntosh",
+      "invisible",
+      "racial"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 14
+  },
+  {
+    "id": 102,
+    "word": "assimilation",
+    "pos": "n.",
+    "meaning": "同化；社会的同化",
+    "example": "Assimilationist policies demand that minority groups abandon their distinctive cultural practices in order to conform to the norms of the dominant society, often at considerable psychological and communal cost.",
+    "translation": "同化主義的政策は、少数派集団が支配的社会の規範に従うためにその独自の文化的慣行を放棄することを要求し、しばしば相当な心理的・共同体的コストを伴う。",
+    "etymology": "cultural assimilation 文化的同化；acculturation (n.) 文化変容；integration (n.) 統合；multiculturalism (n.) 多文化主義；melting pot 人種の坩堝",
+    "derivatives": [
+      "cultural",
+      "acculturation",
+      "integration",
+      "multiculturalism"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 14
+  },
+  {
+    "id": 103,
+    "word": "recognition",
+    "pos": "n.",
+    "meaning": "承認；認知；アイデンティティの承認",
+    "example": "Recognition theory holds that individuals can only develop a secure and positive identity through the affirming responses of others; its denial through misrecognition inflicts a form of psychological harm.",
+    "translation": "承認理論は、個人は他者の肯定的な反応を通じてのみ安定したポジティブなアイデンティティを発展させることができると主張する。誤認を通じたその否定は心理的害の一形態をもたらす。",
+    "etymology": "misrecognition (n.) 誤認；Honneth ホネット；Taylor テイラー；politics of recognition 承認の政治；social esteem 社会的尊重",
+    "derivatives": [
+      "misrecognition",
+      "Honneth",
+      "Taylor",
+      "politics"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 14
+  },
+  {
+    "id": 104,
+    "word": "stigma",
+    "pos": "n.",
+    "meaning": "スティグマ；汚名；社会的烙印",
+    "example": "Goffman's analysis of stigma describes how a discredited attribute — whether physical, behavioural, or social — reduces its bearer from a whole person to a tainted or discounted one in social interaction.",
+    "translation": "ゴフマンのスティグマ分析は、身体的・行動的・社会的な信用を失わせる属性が、その持ち主を社会的相互作用において全人格から汚染された・割引された存在へと貶めるかを記述する。",
+    "etymology": "stigmatize (v.) 烙印を押す；Goffman ゴフマン；spoiled identity 傷ついたアイデンティティ；destigmatization (n.) スティグマの除去；social exclusion 社会的排除",
+    "derivatives": [
+      "stigmatize",
+      "Goffman",
+      "spoiled",
+      "destigmatization"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 14
+  },
+  {
+    "id": 105,
+    "word": "reparation",
+    "pos": "n.",
+    "meaning": "賠償；修復；過去の不正義への補償",
+    "example": "Debates over reparations for historical injustices raise difficult questions about collective responsibility, the passage of time, and whether financial compensation can adequately address non-material harms.",
+    "translation": "歴史的不正義に対する賠償をめぐる議論は、集合的責任・時間の経過・金銭的補償が非物質的な害に適切に対処できるかどうかについての困難な問いを提起する。",
+    "etymology": "reparative justice 修復的正義；reparations 賠償金；restorative justice 回復的司法；acknowledgement (n.) 認める；historical injustice 歴史的不正義",
+    "derivatives": [
+      "reparative",
+      "reparations",
+      "restorative",
+      "acknowledgement"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 14
+  },
+  {
+    "id": 106,
+    "word": "normativity",
+    "pos": "n.",
+    "meaning": "規範性；規範的であること",
+    "example": "Heteronormativity describes the pervasive assumption that heterosexuality is the natural and normal form of human sexuality, rendering other orientations invisible, deviant, or in need of explanation.",
+    "translation": "異性愛規範性は、異性愛が人間の性の自然で正常な形態であるという広範な前提を記述し、他の性的指向を不可視・逸脱したもの・説明を必要とするものにする。",
+    "etymology": "normative (adj.) 規範的な；norm (n.) 規範；heteronormativity (n.) 異性愛規範性；deviance (n.) 逸脱；social norm 社会規範",
+    "derivatives": [
+      "normative",
+      "norm",
+      "heteronormativity",
+      "deviance"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 14
+  },
+  {
+    "id": 107,
+    "word": "agency",
+    "pos": "n.",
+    "meaning": "エージェンシー；行為能力；自律的行為",
+    "example": "The structure-agency debate in sociology asks how much individuals are free to act according to their own will, given the structural constraints of class, race, and gender that shape social life.",
+    "translation": "社会学における構造とエージェンシーの論争は、社会生活を形成する階級・人種・ジェンダーの構造的制約を前提として、個人がどこまで自らの意志に従って行動できるかを問う。",
+    "etymology": "agent (n.) 行為者；structure-agency debate 構造とエージェンシーの論争；Giddens ギデンズ；autonomy (n.) 自律性；social constraint 社会的制約",
+    "derivatives": [
+      "agent",
+      "structure-agency",
+      "Giddens",
+      "autonomy"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 14
+  },
+  {
+    "id": 108,
+    "word": "tolerance",
+    "pos": "n.",
+    "meaning": "寛容；容認",
+    "example": "Popper's paradox of tolerance warns that unlimited tolerance will ultimately destroy itself: a society that tolerates intolerance will eventually be overtaken by those who are intolerant.",
+    "translation": "ポパーの寛容のパラドックスは、無制限の寛容は最終的に自らを破壊すると警告する。不寛容を寛容する社会は最終的に不寛容な者たちに乗っ取られる。",
+    "etymology": "tolerate (v.) 容認する；intolerance (n.) 不寛容；pluralism (n.) 多元主義；Popper ポパー；paradox of tolerance 寛容のパラドックス",
+    "derivatives": [
+      "tolerate",
+      "intolerance",
+      "pluralism",
+      "Popper"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 15
+  },
+  {
+    "id": 109,
+    "word": "disenfranchisement",
+    "pos": "n.",
+    "meaning": "選挙権剥奪；権利の剥奪",
+    "example": "Voter disenfranchisement encompasses legal and extralegal mechanisms through which eligible citizens are prevented from participating in elections, disproportionately affecting minority and low-income communities.",
+    "translation": "有権者の選挙権剥奪は、資格ある市民が選挙への参加を妨げられる法的・超法規的なメカニズムを包括し、少数派と低所得者コミュニティに不均衡に影響する。",
+    "etymology": "disenfranchise (v.) 選挙権を剥奪する；enfranchisement (n.) 選挙権付与；voter suppression 投票者抑圧；gerrymandering (n.) ゲリマンダリング；political exclusion 政治的排除",
+    "derivatives": [
+      "disenfranchise",
+      "enfranchisement",
+      "voter",
+      "gerrymandering"
+    ],
+    "topic": "Identity Isle",
+    "topicJp": "人種・アイデンティティ",
+    "day": 15
+  },
+  {
+    "id": 110,
+    "word": "anthropocene",
+    "pos": "n.",
+    "meaning": "人新世；人類の地質学的時代",
+    "example": "Declaring the Anthropocene a new geological epoch signals that human activity has become the dominant force shaping Earth's physical, chemical, and biological systems.",
+    "translation": "人新世を新たな地質学的時代として宣言することは、人間活動が地球の物理的・化学的・生物学的システムを形成する支配的な力になったことを示す。",
+    "etymology": "anthropocenic (adj.) 人新世の；Holocene (n.) 完新世；planetary boundaries 地球の限界；deep history 深い歴史；Earth system science 地球システム科学",
+    "derivatives": [
+      "anthropocenic",
+      "Holocene",
+      "planetary",
+      "deep"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 16
+  },
+  {
+    "id": 111,
+    "word": "biodiversity",
+    "pos": "n.",
+    "meaning": "生物多様性；生物の多様性",
+    "example": "Biodiversity loss diminishes ecosystem resilience: as species are eliminated, ecosystems become less capable of recovering from disturbances such as drought, disease, or invasive species.",
+    "translation": "生物多様性の損失は生態系の回復力を低下させる。種が絶滅するにつれて、生態系は干ばつ・病気・外来種などの撹乱から回復する能力が低下する。",
+    "etymology": "biodiversity loss 生物多様性の損失；species richness 種の豊かさ；ecosystem services 生態系サービス；habitat fragmentation 生息地の断片化；sixth mass extinction 第六の大量絶滅",
+    "derivatives": [
+      "biodiversity",
+      "species",
+      "ecosystem",
+      "habitat"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 16
+  },
+  {
+    "id": 112,
+    "word": "microbiome",
+    "pos": "n.",
+    "meaning": "マイクロバイオーム；微生物叢",
+    "example": "Research into the gut microbiome has revealed that the trillions of microorganisms inhabiting the human digestive system play a crucial role in immune function, metabolism, and even mood.",
+    "translation": "腸内マイクロバイオームの研究は、人間の消化器系に生息する何兆もの微生物が免疫機能・代謝・さらには気分においても重要な役割を果たすことを明らかにした。",
+    "etymology": "microbial (adj.) 微生物の；gut microbiome 腸内マイクロバイオーム；symbiosis (n.) 共生；host-microbe interaction 宿主-微生物相互作用；dysbiosis (n.) 腸内環境の乱れ",
+    "derivatives": [
+      "microbial",
+      "gut",
+      "symbiosis",
+      "host-microbe"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 16
+  },
+  {
+    "id": 113,
+    "word": "epigenetics",
+    "pos": "n.",
+    "meaning": "エピジェネティクス；後成遺伝学",
+    "example": "Epigenetics challenges strict genetic determinism by demonstrating that environmental experiences can alter gene expression without changing the underlying DNA sequence.",
+    "translation": "エピジェネティクスは、環境的経験がDNA配列を変えることなく遺伝子発現を変化させることを示すことで、厳格な遺伝的決定論に異議を唱える。",
+    "etymology": "epigenetic (adj.) エピジェネティクスの；DNA methylation DNAメチル化；histone modification ヒストン修飾；gene expression 遺伝子発現；transgenerational inheritance 世代を超えた遺伝",
+    "derivatives": [
+      "epigenetic",
+      "DNA",
+      "histone",
+      "gene"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 16
+  },
+  {
+    "id": 114,
+    "word": "ecological resilience",
+    "pos": "n.",
+    "meaning": "生態学的回復力",
+    "example": "In ecology, resilience refers to the capacity of a system to absorb disturbance and reorganise while undergoing change, so as to retain essentially the same function.",
+    "translation": "生態学において、回復力とは、本質的に同じ機能を維持するために、変化を経験しながらも撹乱を吸収し再編成するシステムの能力を指す。",
+    "etymology": "resilient ecosystem 回復力のある生態系；tipping point 転換点；regime shift 体制シフト；adaptive capacity 適応能力；Holling ホリング",
+    "derivatives": [
+      "resilient",
+      "tipping",
+      "regime",
+      "adaptive"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 16
+  },
+  {
+    "id": 115,
+    "word": "sequestration",
+    "pos": "n.",
+    "meaning": "（炭素）貯留；隔離；隔絶",
+    "example": "Natural carbon sequestration through forests and oceans absorbs vast quantities of atmospheric CO₂, but these sinks are under increasing pressure from deforestation and ocean acidification.",
+    "translation": "森林と海洋を通じた自然炭素隔離は膨大な量の大気中CO₂を吸収するが、これらの吸収源は森林破壊と海洋酸性化による増大する圧力にさらされている。",
+    "etymology": "carbon sequestration 炭素隔離；sequester (v.) 隔離する；carbon sink 炭素吸収源；afforestation (n.) 植林；geological storage 地質学的貯留",
+    "derivatives": [
+      "carbon",
+      "sequester",
+      "carbon",
+      "afforestation"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 16
+  },
+  {
+    "id": 116,
+    "word": "mitigation",
+    "pos": "n.",
+    "meaning": "緩和；軽減；（気候変動の）対策",
+    "example": "Climate scientists distinguish between mitigation — reducing greenhouse gas emissions to limit future warming — and adaptation, which involves adjusting to the changes that are already inevitable.",
+    "translation": "気候科学者は、将来の温暖化を制限するために温室効果ガス排出を削減する緩和と、すでに不可避な変化に適応する適応を区別する。",
+    "etymology": "mitigate (v.) 緩和する；mitigation strategy 緩和戦略；climate mitigation 気候緩和；adaptation (n.) 適応；net zero ネットゼロ",
+    "derivatives": [
+      "mitigate",
+      "mitigation",
+      "climate",
+      "adaptation"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 16
+  },
+  {
+    "id": 117,
+    "word": "symbiosis",
+    "pos": "n.",
+    "meaning": "共生；相互依存関係",
+    "example": "The concept of symbiosis has expanded beyond biology to describe cultural, economic, and technological relationships in which two entities derive mutual benefit from their interdependence.",
+    "translation": "共生の概念は生物学を超えて拡張し、二つの実体が相互依存から相互の利益を得る文化的・経済的・技術的関係を記述するようになった。",
+    "etymology": "symbiotic (adj.) 共生的な；mutualism (n.) 相利共生；commensalism (n.) 片利共生；parasitism (n.) 寄生；holobiont (n.) ホロビオント",
+    "derivatives": [
+      "symbiotic",
+      "mutualism",
+      "commensalism",
+      "parasitism"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 16
+  },
+  {
+    "id": 118,
+    "word": "taxonomy",
+    "pos": "n.",
+    "meaning": "分類学；タクソノミー",
+    "example": "Linnaeus's binomial taxonomy established the framework for classifying living organisms by genus and species, a system later reconciled with evolutionary relationships through phylogenetic analysis.",
+    "translation": "リンネの二名法分類学は属と種によって生物を分類する枠組みを確立し、後に系統発生学的分析を通じて進化的関係と調和されたシステムとなった。",
+    "etymology": "taxonomic (adj.) 分類学的な；species (n.) 種；genus (n.) 属；phylogenetics (n.) 系統発生学；Linnaeus リンネ",
+    "derivatives": [
+      "taxonomic",
+      "species",
+      "genus",
+      "phylogenetics"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 16
+  },
+  {
+    "id": 119,
+    "word": "entropy",
+    "pos": "n.",
+    "meaning": "エントロピー；無秩序の度合い",
+    "example": "The second law of thermodynamics holds that entropy in an isolated system always increases over time, providing a thermodynamic arrow that distinguishes past from future.",
+    "translation": "熱力学第二法則は、孤立したシステムのエントロピーは時間とともに常に増加すると主張し、過去と未来を区別する熱力学的な矢を提供する。",
+    "etymology": "thermodynamics (n.) 熱力学；second law of thermodynamics 熱力学第二法則；disorder (n.) 無秩序；Boltzmann ボルツマン；information entropy 情報エントロピー",
+    "derivatives": [
+      "thermodynamics",
+      "second",
+      "disorder",
+      "Boltzmann"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 16
+  },
+  {
+    "id": 120,
+    "word": "phenotype",
+    "pos": "n.",
+    "meaning": "表現型",
+    "example": "Phenotypic plasticity — the capacity of a single genotype to produce different phenotypes in response to varying environmental conditions — is a key mechanism by which organisms cope with environmental uncertainty.",
+    "translation": "表現型可塑性（単一の遺伝子型が異なる環境条件に応答して異なる表現型を生み出す能力）は、生物が環境的不確実性に対処する主要なメカニズムである。",
+    "etymology": "genotype (n.) 遺伝子型；phenotypic plasticity 表現型可塑性；natural selection 自然選択；trait (n.) 形質；epigenetics (n.) エピジェネティクス",
+    "derivatives": [
+      "genotype",
+      "phenotypic",
+      "natural",
+      "trait"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 17
+  },
+  {
+    "id": 121,
+    "word": "trophic",
+    "pos": "adj.",
+    "meaning": "栄養段階の；食物連鎖の",
+    "example": "Trophic cascades demonstrate how the removal of apex predators reverberates through multiple levels of a food web, transforming vegetation patterns and altering ecosystem structure.",
+    "translation": "トロフィック連鎖は、頂点捕食者の除去が食物網の複数の段階を通じて波及し、植生パターンを変えて生態系構造を変化させることを示す。",
+    "etymology": "trophic level 栄養段階；food web 食物網；apex predator 頂点捕食者；trophic cascade トロフィック連鎖；keystone species キーストーン種",
+    "derivatives": [
+      "trophic",
+      "food",
+      "apex",
+      "trophic"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 17
+  },
+  {
+    "id": 122,
+    "word": "biomass",
+    "pos": "n.",
+    "meaning": "バイオマス；生物量",
+    "example": "Global biomass estimates reveal that while humans represent a small fraction of total animal biomass, our impact on other species has caused dramatic reductions in wild animal and plant biomass.",
+    "translation": "地球全体のバイオマス推計は、人間が全動物バイオマスのごく一部を占めるにもかかわらず、他の種への我々の影響が野生動物と植物のバイオマスに劇的な減少を引き起こしたことを明らかにする。",
+    "etymology": "primary productivity 一次生産性；standing crop 現存量；carbon cycle 炭素循環；detritus (n.) デトリタス；decomposer (n.) 分解者",
+    "derivatives": [
+      "primary",
+      "standing",
+      "carbon",
+      "detritus"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 17
+  },
+  {
+    "id": 123,
+    "word": "invasive species",
+    "pos": "n.",
+    "meaning": "外来侵入種",
+    "example": "Invasive species represent one of the leading drivers of biodiversity loss globally, outcompeting native organisms for resources and altering the ecological relationships that sustain local ecosystems.",
+    "translation": "外来侵入種は地球全体の生物多様性損失の主要な要因の一つであり、在来生物との資源競争に勝ち、地域の生態系を維持する生態学的関係を変化させる。",
+    "etymology": "biological invasion 生物的侵略；native species 在来種；ecological disturbance 生態系撹乱；biotic homogenization 生物的均質化；eradication (n.) 根絶",
+    "derivatives": [
+      "biological",
+      "native",
+      "ecological",
+      "biotic"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 17
+  },
+  {
+    "id": 124,
+    "word": "geoengineering",
+    "pos": "n.",
+    "meaning": "地球工学",
+    "example": "Proposals for geoengineering raise profound ethical questions about governance, consent, and the risks of unilateral intervention in Earth's climate system by a single nation or coalition.",
+    "translation": "地球工学の提案は、単一の国家または連合による地球の気候システムへの一方的な介入のガバナンス・同意・リスクについて深い倫理的問いを提起する。",
+    "etymology": "solar radiation management 太陽放射管理；carbon dioxide removal CO₂除去；stratospheric aerosol injection 成層圏エアロゾル注入；climate intervention 気候介入；governance (n.) ガバナンス",
+    "derivatives": [
+      "solar",
+      "carbon",
+      "stratospheric",
+      "climate"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 17
+  },
+  {
+    "id": 125,
+    "word": "rewilding",
+    "pos": "n.",
+    "meaning": "再野生化；生態系の回復",
+    "example": "Rewilding initiatives seek to restore self-sustaining ecosystems by reintroducing keystone species whose presence regulates food webs and creates conditions for biodiversity to recover.",
+    "translation": "再野生化の取り組みは、食物網を調節し生物多様性が回復する条件を作り出すキーストーン種を再導入することで自立した生態系を回復しようとする。",
+    "etymology": "keystone species キーストーン種；ecological restoration 生態系回復；trophic cascade トロフィック連鎖；baseline shifting 基準線のずれ；Pleistocene rewilding 更新世の再野生化",
+    "derivatives": [
+      "keystone",
+      "ecological",
+      "trophic",
+      "baseline"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 17
+  },
+  {
+    "id": 126,
+    "word": "sustainability",
+    "pos": "n.",
+    "meaning": "持続可能性",
+    "example": "The Brundtland Commission defined sustainable development as development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+    "translation": "ブルントラント委員会は持続可能な開発を、将来の世代が自らのニーズを満たす能力を損なうことなく現在のニーズを満たす開発と定義した。",
+    "etymology": "sustainable development 持続可能な開発；Brundtland ブルントラント；triple bottom line トリプルボトムライン；SDGs 持続可能な開発目標；intergenerational equity 世代間公平",
+    "derivatives": [
+      "sustainable",
+      "Brundtland",
+      "triple",
+      "SDGs"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 17
+  },
+  {
+    "id": 127,
+    "word": "tipping point",
+    "pos": "n.",
+    "meaning": "転換点；臨界点",
+    "example": "Climate tipping points are thresholds beyond which a system undergoes rapid and potentially irreversible change; crossing them could trigger cascading effects across interconnected Earth systems.",
+    "translation": "気候の転換点は、システムが急激かつ潜在的に不可逆的な変化を遂げる閾値であり、それを超えると相互接続された地球システム全体で連鎖的な影響が引き起こされる可能性がある。",
+    "etymology": "threshold (n.) 閾値；regime shift 体制シフト；positive feedback loop 正のフィードバックループ；irreversibility (n.) 不可逆性；Lenton レントン",
+    "derivatives": [
+      "threshold",
+      "regime",
+      "positive",
+      "irreversibility"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 17
+  },
+  {
+    "id": 128,
+    "word": "carbon footprint",
+    "pos": "n.",
+    "meaning": "カーボンフットプリント；炭素排出量",
+    "example": "The concept of the carbon footprint, popularised by oil industry campaigns, has been criticised for shifting attention from systemic industrial emissions to individual consumer choices.",
+    "translation": "石油産業のキャンペーンによって普及したカーボンフットプリントの概念は、注意を組織的な産業排出から個人の消費者選択へとシフトさせるとして批判されてきた。",
+    "etymology": "greenhouse gas 温室効果ガス；lifecycle assessment ライフサイクル評価；scope 1/2/3 emissions スコープ1/2/3排出；offset (v.) 相殺する；embodied carbon 内包炭素",
+    "derivatives": [
+      "greenhouse",
+      "lifecycle",
+      "scope",
+      "offset"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 17
+  },
+  {
+    "id": 129,
+    "word": "speciation",
+    "pos": "n.",
+    "meaning": "種分化；新種の形成",
+    "example": "Allopatric speciation occurs when a population is geographically divided, allowing the separated groups to diverge genetically through mutation, drift, and local adaptation until reproductive isolation is complete.",
+    "translation": "異所的種分化は集団が地理的に分断されるときに起こり、分離した集団が突然変異・遺伝的浮動・局所適応を通じて生殖的隔離が完成するまで遺伝的に分岐することを可能にする。",
+    "etymology": "allopatric speciation 異所的種分化；sympatric speciation 同所的種分化；reproductive isolation 生殖的隔離；Darwin ダーウィン；adaptive radiation 適応放散",
+    "derivatives": [
+      "allopatric",
+      "sympatric",
+      "reproductive",
+      "Darwin"
+    ],
+    "topic": "Eco Abyss",
+    "topicJp": "科学・自然・環境",
+    "day": 17
+  }
+]
