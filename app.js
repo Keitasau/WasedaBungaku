@@ -466,10 +466,9 @@ const App = {
       this.showScreen('screen-quiz');
     } else if (phase === 'listening') {
       this.sessionMode = 'listening';
-      this.sessionCorrect = 0; // リスニングフェーズ開始時にリセット
+      // sessionCorrect はリセットしない（quiz+listeningの累計スコアを維持）
       this.setupQuiz();
       this.showScreen('screen-quiz');
-      // 1問目音声: renderQuiz内で統一処理するため、ここでは何もしない
     }
   },
 
@@ -633,9 +632,9 @@ const App = {
       }
     }, 1000);
 
-    // リスニングモード: 全問ここで音声再生
+    // リスニングモード: 全問ここで音声再生（画面遷移完了を待つため600ms）
     if (this.sessionMode === 'listening') {
-      setTimeout(() => this.speak(w.word), 300);
+      setTimeout(() => this.speak(w.word), 600);
     }
   },
 
@@ -863,8 +862,10 @@ const App = {
 
   // ---- RESULTS ----
   showResults() {
-    const total = this.sessionWords.length;
-    const correct = this.sessionCorrect;
+    // dayセッション(quiz→listening両方通過)は問題数×2が満点
+    const phases = (this.sessionSource === 'day') ? 2 : 1;
+    const total = this.sessionWords.length * phases;
+    const correct = Math.min(this.sessionCorrect, total); // 念のため上限
     const pct = total ? Math.round(correct / total * 100) : 0;
 
     this.setText('results-score', `${correct} / ${total}`);
