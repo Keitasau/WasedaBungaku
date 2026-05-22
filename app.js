@@ -150,7 +150,7 @@ const App = {
   async init() {
     loadState();
     try {
-      const res = await fetch('vocabulary.json');
+      const res = await fetch('vocabulary.json?v=20250522');
       State.vocab = await res.json();
     } catch(e) {
       console.error('Failed to load vocabulary.json', e);
